@@ -26,13 +26,13 @@ titles:
 key: page-about
 ---
 
-![TeXt Theme](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)
+Founded in USA and formerly known as 4D International,  HoloARCH  has business registrations in Connecticut and Georgiain the U.S.   Its founding partners are registeredarchitects in the US and Europe with professional experience ofmore than 24 years,   including many years as senior designersin the world-renowned architect's offices or top internationaldesign corporations such as Pei Partnership,     Kevin Roche John Dinkeloo & Associates,  and Perkins+Will.   The partners haveworked on many significant projects in the US,  China, Germany,Spain, France, Ireland, Mexico, Chile, Japan, Malaysia, andthe United Arab Emirates. 
 
-TeXt is a super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc. Similar to iOS 11 style, it has large and prominent titles, round buttons and cards.
+HoloARCH's chief designers have extensive experience on varietyof building types among which commercial (including office, retail, hotel, and etc.),  healthcare,  educational,  and residentialprojects are where we are especially outstanding,  while greendesign,  under supervision of our design directors as    US GreenBuilding Council's LEED AP,   is our strongly specialized areafor all building types and urban design projects. 
 
-```javascript
-(() => console.log('Hello, World!'))();
-```
+HoloARCH's design philosophy and design methodology emphasizetotal,  whole,  or "holo" information relevant toprojects and their locations on the earth,  which informs usof "holo" ideas toward ideal forms of architectureand urbanism in harmony with the Nature. 
+
+
 
 ## Features
 
