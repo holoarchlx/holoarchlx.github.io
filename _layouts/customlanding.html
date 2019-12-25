@@ -28,8 +28,8 @@ article_header:
         <div class="hero__content">
           <div class="mb-5">
 
-            <h4>blah blah </h4>
-            <p>Architecture, Urban Design, Interior Design</p>
+            <h4>{{ _section.title }}</h4>
+            <p>{{ content }}</p>
             
             {%- if _section.actions -%}
               <ul class="menu">
@@ -172,5 +172,3 @@ article_header:
   {%- endfor -%}
   </div>
 </div>
-
-{{ content }}
