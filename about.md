@@ -1,5 +1,6 @@
 ---
 layout: article
+show_title: false
 titles:
   # @start locale config
   en      : &EN       Firm Profile
@@ -25,7 +26,7 @@ titles:
   # @end locale config
 key: page-about
 ---
-
+## Firm Profile
 In 2000 HoloARCH was founded in the USA. Its founding partners are registered architects in the US with professional experience of more than 30 years, including many years as senior designers in the world-renowned architect’s offices or top international design corporations such as Pei Partnership, Kevin Roche John Dinkeloo & Associates, and Perkins+Will. The partners have worked on many significant projects in North America, Europe, Asia, and the United Arab Emirates.
 
 HoloARCH’s chief designers have extensive experience on variety of building types among which commercial (including office, retail, hotel, and etc.), healthcare, educational, and residential projects are where we are especially outstanding, while green design, under supervision of our design directors as US Green Building Council’s LEED AP, is our strongly specialized area for all building types and urban design projects.
