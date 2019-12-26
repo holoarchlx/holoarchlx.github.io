@@ -26,3 +26,7 @@ titles:
   # @end locale config
 key: page-about
 ---
+
+Contact
+Email: holoarch@qq.com
+Phone: (86)18621341876
