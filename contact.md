@@ -27,7 +27,7 @@ titles:
 key: page-about
 ---
 
-## Contact
-Email: holoarch@qq.com
+## Contact/联系
+Email/邮箱: holoarch@qq.com
 
-Phone: (86)18621341876
+Phone/电话: (86)18621341876
