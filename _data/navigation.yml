@@ -25,14 +25,14 @@ header:
       # @end locale config
     url: /about.html
     
- - titles:
+  - titles:
       # @start locale config
       en      : &EN       Contact
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
       en-AU   : *EN
-      zh-Hans : &ZH_HANS   联系
+      zh-Hans : &ZH_HANS  联系
       zh      : *ZH_HANS
       zh-CN   : *ZH_HANS
       zh-SG   : *ZH_HANS
