@@ -27,6 +27,6 @@ titles:
 key: page-about
 ---
 
-Contact
+## Contact
 Email: holoarch@qq.com
 Phone: (86)18621341876
