@@ -30,7 +30,7 @@ key: page-about
 ## Contact Us
 Email:  [holoarch@outlook.com](mailto:holoarch@outlook.com)
 
-Phone:  (01) 516 590 6820
+Phone:  [tel:15165906820]((1) 516 590 6820)
 
 ## 联系我们
 邮箱:  [holoarch@qq.com](mailto:holoarch@qq.com)
