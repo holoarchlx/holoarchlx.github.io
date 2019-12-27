@@ -27,7 +27,12 @@ titles:
 key: page-about
 ---
 
-## Contact / 联系
-Email / 邮箱:   [holoarch@qq.com](mailto:holoarch@qq.com)
+## Contact Us
+Email:  [holoarch@outlook.com](mailto:holoarch@outlook.com)
 
-Phone / 电话:   (86)18621341876
+Phone:  (01) 516 590 6820
+
+## 联系我们
+邮箱:  [holoarch@qq.com](mailto:holoarch@qq.com)
+
+电话:  (86) 186 2134 1876
