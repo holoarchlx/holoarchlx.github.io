@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: project
 show_title: false
 titles:
   # @start locale config
