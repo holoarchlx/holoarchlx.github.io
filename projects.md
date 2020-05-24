@@ -27,7 +27,7 @@ titles:
 key: page-about
 ---
 ## Projects
-Commercial
+[Commercial](/projects/commercial.html)
 
 Institutional
 
