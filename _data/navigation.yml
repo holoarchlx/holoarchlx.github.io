@@ -49,7 +49,7 @@ header:
       # @end locale config
     url: /contact
 
-    - titles:
+  - titles:
       # @start locale config
       en      : &EN       Contact
       en-GB   : *EN
