@@ -25,14 +25,14 @@ header:
       # @end locale config
     url: /about.html
     
-   - titles:
+  - titles:
       # @start locale config
       en      : &EN       Projects
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
       en-AU   : *EN
-      zh-Hans : &ZH_HANS  
+      zh-Hans : &ZH_HANS
       zh      : *ZH_HANS
       zh-CN   : *ZH_HANS
       zh-SG   : *ZH_HANS
@@ -50,7 +50,7 @@ header:
       # @end locale config
     url: /projects.html
     
-  - titles:
+- titles:
       # @start locale config
       en      : &EN       Contact
       en-GB   : *EN
