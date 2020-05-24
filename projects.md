@@ -28,7 +28,11 @@ key: page-about
 ---
 ## Projects
 Commercial
+
 Institutional
+
 Highrise
+
 Green Building
+
 Urban Design
