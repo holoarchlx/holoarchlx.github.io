@@ -26,13 +26,7 @@ titles:
   # @end locale config
 key: page-about
 ---
-
-## Contact Us
 Email:  [holoarch@outlook.com](mailto:holoarch@outlook.com)
 
 Phone:  [(1) 516 590 6820](tel:15165906820)
 
-## 联系我们
-邮箱:  [holoarch@qq.com](mailto:holoarch@qq.com)
-
-电话:  [(86) 186 2134 1876](tel:8618621341876)
