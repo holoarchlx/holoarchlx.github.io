@@ -43,7 +43,7 @@ key: page-about
 
   <div class="mySlides fade">
     <div class="numbertext">3 / 3</div>
-    <img src="/projects/images/commercial/Qisha Hotel-03.jpg" style="height:500">
+    <img src="/projects/images/commercial/Qisha Hotel-03.jpg" style="height:60%">
     <div class="text">Caption Three</div>
   </div>
 
