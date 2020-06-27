@@ -27,23 +27,24 @@ titles:
 key: page-about
 ---
 ## Commercial
+<center>
   <div class="slideshow-container">
 
   <div class="mySlides fade">
-    <div class="numbertext">1 / 3</div>
-    <img src="/projects/images/commercial/Qisha Hotel-01.JPG">
+    <div class="numbertext"></div>
+    <img src="/projects/images/commercial/Qisha Hotel-01.jpg">
     <div class="text">Caption Text</div>
   </div>
 
   <div class="mySlides fade">
-    <div class="numbertext">2 / 3</div>
-    <img src="/projects/images/commercial/Qisha Hotel-02.JPG">
+    <div class="numbertext"></div>
+    <img src="/projects/images/commercial/Qisha Hotel-02.jpg">
     <div class="text">Caption Two</div>
   </div>
 
   <div class="mySlides fade">
-    <div class="numbertext">3 / 3</div>
-    <img src="/projects/images/commercial/Qisha Hotel-03.jpg" style="height:60%">
+    <div class="numbertext"></div>
+    <img src="/projects/images/commercial/Qisha Hotel-03.jpg">
     <div class="text">Caption Three</div>
   </div>
 
@@ -51,6 +52,7 @@ key: page-about
   <a class="next" onclick="plusSlides(1)">&#10095;</a>
 
   </div>
+</center>
   <br>
 
   <div style="text-align:center">
