@@ -31,19 +31,19 @@ key: page-about
 
   <div class="mySlides fade">
     <div class="numbertext">1 / 3</div>
-    <img src="/projects/images/commercial/Qisha Hotel-01.JPG" style="width:100%">
+    <img src="/projects/images/commercial/Qisha Hotel-01.JPG">
     <div class="text">Caption Text</div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">2 / 3</div>
-    <img src="/projects/images/commercial/Qisha Hotel-02.JPG" style="width:100%">
+    <img src="/projects/images/commercial/Qisha Hotel-02.JPG">
     <div class="text">Caption Two</div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">3 / 3</div>
-    <img src="/projects/images/commercial/Qisha Hotel-03.jpg" style="width:100%">
+    <img src="/projects/images/commercial/Qisha Hotel-03.jpg">
     <div class="text">Caption Three</div>
   </div>
 
