@@ -27,32 +27,31 @@ titles:
 key: page-about
 ---
 ## Commercial
-<center>
+
   <div class="slideshow-container">
+  <center>
+    <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/commercial/Qisha Hotel-01.jpg">
+      <div class="text">Caption Text</div>
+    </div>
 
-  <div class="mySlides fade">
-    <div class="numbertext"></div>
-    <img src="/projects/images/commercial/Qisha Hotel-01.jpg">
-    <div class="text">Caption Text</div>
-  </div>
+    <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/commercial/Qisha Hotel-02.jpg">
+      <div class="text">Caption Two</div>
+    </div>
 
-  <div class="mySlides fade">
-    <div class="numbertext"></div>
-    <img src="/projects/images/commercial/Qisha Hotel-02.jpg">
-    <div class="text">Caption Two</div>
-  </div>
-
-  <div class="mySlides fade">
-    <div class="numbertext"></div>
-    <img src="/projects/images/commercial/Qisha Hotel-03.jpg">
-    <div class="text">Caption Three</div>
-  </div>
-
+    <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/commercial/Qisha Hotel-03.jpg">
+      <div class="text">Caption Three</div>
+    </div>
+  </center>
   <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
   <a class="next" onclick="plusSlides(1)">&#10095;</a>
 
   </div>
-</center>
   <br>
 
   <div style="text-align:center">
