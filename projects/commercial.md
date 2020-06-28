@@ -42,9 +42,15 @@ key: page-about
       <div class="text">Caption Two</div>
     </div>
 
-    <div class="mySlides fade">
+<div class="mySlides fade">
       <div class="numbertext"></div>
       <img src="/projects/images/commercial/Qisha Hotel-03.jpg">
+      <div class="text">Caption Three</div>
+    </div>
+
+    <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/commercial/background.jpg">
       <div class="text">Caption Three</div>
     </div>
   </center>
