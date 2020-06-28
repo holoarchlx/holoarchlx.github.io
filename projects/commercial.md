@@ -50,7 +50,67 @@ key: page-about
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
-      <img src="/projects/images/commercial/Background.jpg">
+      <img src="/projects/images/commercial/Qisha Hotel-04.jpg">
+      <div class="text">Caption Three</div>
+    </div>
+
+    <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/commercial/Qisha Hotel-05.jpg">
+      <div class="text">Caption Three</div>
+    </div>
+
+    <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/commercial/Qisha Hotel-06.jpg">
+      <div class="text">Caption Three</div>
+    </div>
+    
+    <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/commercial/Qisha Hotel-07.jpg">
+      <div class="text">Caption Three</div>
+    </div>
+
+    <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/commercial/Qisha Hotel-08.jpg">
+      <div class="text">Caption Three</div>
+    </div>
+
+    <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/commercial/Qisha Hotel-09.jpg">
+      <div class="text">Caption Three</div>
+    </div>
+
+    <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/commercial/Qisha Hotel-10.jpg">
+      <div class="text">Caption Three</div>
+    </div>
+
+    <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/commercial/Qisha Hotel-11.jpg">
+      <div class="text">Caption Three</div>
+    </div>
+
+    <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/commercial/Qisha Hotel-12.jpg">
+      <div class="text">Caption Three</div>
+    </div>
+
+    <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/commercial/Qisha Hotel-13.jpg">
+      <div class="text">Caption Three</div>
+    </div>
+
+    <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/commercial/Qisha Hotel-14.jpg">
       <div class="text">Caption Three</div>
     </div>
 
