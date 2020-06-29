@@ -114,6 +114,30 @@ key: page-about
       <div class="text">Caption Fourteen</div>
     </div>
 
+    <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/commercial/Qisha Hotel-15.JPG">
+      <div class="text">Caption Fourteen</div>
+    </div>
+
+        <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/commercial/Qisha Hotel-16.JPG">
+      <div class="text">Caption Fourteen</div>
+    </div>
+
+        <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/commercial/Qisha Hotel-17.JPG">
+      <div class="text">Caption Fourteen</div>
+    </div>
+
+        <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/commercial/Qisha Hotel-18.JPG">
+      <div class="text">Caption Fourteen</div>
+    </div>
+
   </center>
   <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
   <a class="next" onclick="plusSlides(1)">&#10095;</a>
