@@ -50,7 +50,7 @@ key: page-about
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
-      <img src="/projects/images/commercial/Qisha Hotel-04.jpg">
+      <img src="/projects/images/commercial/Qisha Hotel-04.JPG">
       <div class="text">Caption Four</div>
     </div>
 
