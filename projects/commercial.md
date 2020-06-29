@@ -56,61 +56,61 @@ key: page-about
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
-      <img src="/projects/images/commercial/Qisha Hotel-05.jpg">
+      <img src="/projects/images/commercial/Qisha Hotel-05.JPG">
       <div class="text">Caption Five</div>
     </div>
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
-      <img src="/projects/images/commercial/Qisha Hotel-06.jpg">
+      <img src="/projects/images/commercial/Qisha Hotel-06.JPG">
       <div class="text">Caption Six</div>
     </div>
     
     <div class="mySlides fade">
       <div class="numbertext"></div>
-      <img src="/projects/images/commercial/Qisha Hotel-07.jpg">
+      <img src="/projects/images/commercial/Qisha Hotel-07.JPG">
       <div class="text">Caption Seven</div>
     </div>
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
-      <img src="/projects/images/commercial/Qisha Hotel-08.jpg">
+      <img src="/projects/images/commercial/Qisha Hotel-08.JPG">
       <div class="text">Caption Eight</div>
     </div>
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
-      <img src="/projects/images/commercial/Qisha Hotel-09.jpg">
+      <img src="/projects/images/commercial/Qisha Hotel-09.JPG">
       <div class="text">Caption Nine</div>
     </div>
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
-      <img src="/projects/images/commercial/Qisha Hotel-10.jpg">
+      <img src="/projects/images/commercial/Qisha Hotel-10.JPG">
       <div class="text">Caption Ten</div>
     </div>
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
-      <img src="/projects/images/commercial/Qisha Hotel-11.jpg">
+      <img src="/projects/images/commercial/Qisha Hotel-11.JPG">
       <div class="text">Caption Eleven</div>
     </div>
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
-      <img src="/projects/images/commercial/Qisha Hotel-12.jpg">
+      <img src="/projects/images/commercial/Qisha Hotel-12.JPG">
       <div class="text">Caption Twelve</div>
     </div>
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
-      <img src="/projects/images/commercial/Qisha Hotel-13.jpg">
+      <img src="/projects/images/commercial/Qisha Hotel-13.JPG">
       <div class="text">Caption Thirteen</div>
     </div>
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
-      <img src="/projects/images/commercial/Qisha Hotel-14.jpg">
+      <img src="/projects/images/commercial/Qisha Hotel-14.JPG">
       <div class="text">Caption Fourteen</div>
     </div>
 
