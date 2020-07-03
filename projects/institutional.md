@@ -26,4 +26,18 @@ titles:
   # @end locale config
 key: page-about
 ---
-## Institutional
+##### Institutional
+
+  <div class="slideshow-container">
+  <center>
+    <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/commercial/01-SEPU Library.jpg">
+      <div class="text">Caption Text</div>
+    </div>
+
+    <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/commercial/Qisha Hotel-02.jpg">
+      <div class="text">Caption Two</div>
+    </div>

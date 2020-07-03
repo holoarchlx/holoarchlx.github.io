@@ -29,12 +29,10 @@ key: page-about
 ## Projects
 [Commercial](/projects/commercial.html)
 
-Institutional
 [Institutional](/projects/institutional.html)
 
-Highrise
 [Highrise](/projects/highrise.html)
 
-Green Building
+[Green Building]()
 
-Urban Design
+[Urban Design]()
