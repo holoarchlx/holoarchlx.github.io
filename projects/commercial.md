@@ -186,6 +186,90 @@ key: page-about
       <div class="text">Caption Fourteen</div>
     </div>          
 
+        <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/commercial/41-Dubai Bay  Tower & Complex.JPG">
+      <div class="text">Caption Fourteen</div>
+    </div>         
+
+        <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/commercial/42-Dubai Bay  Tower & Complex.JPG">
+      <div class="text">Caption Fourteen</div>
+    </div>         
+
+        <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/commercial/43-Dubai Bay  Tower & Complex.JPG">
+      <div class="text">Caption Fourteen</div>
+    </div>      
+
+        <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/commercial/44-Dubai Bay  Tower & Complex.JPG">
+      <div class="text">Caption Fourteen</div>
+    </div>        
+
+        <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/commercial/61-Dubai Sports City Mall.JPG">
+      <div class="text">Caption Fourteen</div>
+    </div>       
+
+        <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/commercial/62-Dubai Sports City Mall.JPG">
+      <div class="text">Caption Fourteen</div>
+    </div>      
+
+        <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/commercial/63-Dubai Sports City Mall.JPG">
+      <div class="text">Caption Fourteen</div>
+    </div>           
+
+        <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/commercial/64-Dubai Sports City Mall.JPG">
+      <div class="text">Caption Fourteen</div>
+    </div>       
+
+        <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/commercial/65-Dubai Sports City Mall.JPG">
+      <div class="text">Caption Fourteen</div>
+    </div>          
+
+        <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/commercial/81-Hengzhou Island Hotel.JPG">
+      <div class="text">Caption Fourteen</div>
+    </div>          
+
+        <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/commercial/82-Hengzhou Island Hotel.JPG">
+      <div class="text">Caption Fourteen</div>
+    </div>        
+
+        <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/commercial/83-Hengzhou Island Hotel.JPG">
+      <div class="text">Caption Fourteen</div>
+    </div>        
+
+        <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/commercial/90-Poly Dalian RD Complex.JPG">
+      <div class="text">Caption Fourteen</div>
+    </div>         
+
+        <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/commercial/Tieshanping Park Hote.JPG">
+      <div class="text">Caption Fourteen</div>
+    </div>                
+
   </center>
   <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
   <a class="next" onclick="plusSlides(1)">&#10095;</a>
