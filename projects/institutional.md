@@ -32,12 +32,173 @@ key: page-about
   <center>
     <div class="mySlides fade">
       <div class="numbertext"></div>
-      <img src="/projects/images/commercial/01-SEPU Library.jpg">
+      <img src="/projects/images/institutional/01-SEPU Library.jpg">
       <div class="text">Caption Text</div>
     </div>
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
-      <img src="/projects/images/commercial/Qisha Hotel-02.jpg">
+      <img src="/projects/images/institutional/02-Mansion Office.jpg">
       <div class="text">Caption Two</div>
     </div>
+
+    <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/institutional/03-Mansion Office.jpg">
+      <div class="text">Caption Two</div>
+    </div>    
+
+    <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/institutional/04-Mansion Office.jpg">
+      <div class="text">Caption Two</div>
+    </div>      
+
+    <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/institutional/05-Mansion Office.jpg">
+      <div class="text">Caption Two</div>
+    </div>         
+
+    <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/institutional/06-Mansion Office.jpg">
+      <div class="text">Caption Two</div>
+    </div>             
+
+    <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/institutional/07-Mansion Office.jpg">
+      <div class="text">Caption Two</div>
+    </div>       
+
+    <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/institutional/08-Mansion Office.jpg">
+      <div class="text">Caption Two</div>
+    </div>        
+
+    <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/institutional/09-Mansion Office.jpg">
+      <div class="text">Caption Two</div>
+    </div>          
+
+    <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/institutional/10-Mansion Office.jpg">
+      <div class="text">Caption Two</div>
+    </div>              
+
+    <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/institutional/11-Knight Performing Arts Theat.jpg">
+      <div class="text">Caption Two</div>
+    </div>         
+
+    <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/institutional/12-Knight Performing Arts Theat.jpg">
+      <div class="text">Caption Two</div>
+    </div>         
+
+    <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/institutional/13-Knight Performing Arts Theat.jpg">
+      <div class="text">Caption Two</div>
+    </div>        
+
+    <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/institutional/14-Knight Performing Arts Theat.jpg">
+      <div class="text">Caption Two</div>
+    </div>      
+
+    <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/institutional/15-Foshan TV Towe.jpg">
+      <div class="text">Caption Two</div>
+    </div>         
+
+    <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/institutional/16-CISDI Headquarters.jpg">
+      <div class="text">Caption Two</div>
+    </div>            
+
+    <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/institutional/17-CISDI Headquarters.jpg">
+      <div class="text">Caption Two</div>
+    </div>        
+
+    <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/institutional/18-Guangzhou Central Library.jpg">
+      <div class="text">Caption Two</div>
+    </div>        
+
+    <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/institutional/19-Guangzhou Central Library.jpg">
+      <div class="text">Caption Two</div>
+    </div>         
+
+    <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/institutional/20-Guangzhou Central Library.jpg">
+      <div class="text">Caption Two</div>
+    </div>          
+
+    <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/institutional/21-Yuzhong Culture Center.jpg">
+      <div class="text">Caption Two</div>
+    </div>            
+
+    <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/institutional/22-Yuzhong Culture Center.jpg">
+      <div class="text">Caption Two</div>
+    </div>         
+
+  </center>
+  <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+  <a class="next" onclick="plusSlides(1)">&#10095;</a>
+
+  </div>
+  <br>
+
+  <div style="text-align:center">
+    
+  </div>
+
+  <script>
+  var slideIndex = 1;
+  showSlides(slideIndex);
+
+  function plusSlides(n) {
+    showSlides(slideIndex += n);
+  }
+
+  function currentSlide(n) {
+    showSlides(slideIndex = n);
+  }
+
+  function showSlides(n) {
+    var i;
+    var slides = document.getElementsByClassName("mySlides");
+    var dots = document.getElementsByClassName("dot");
+    if (n > slides.length) {slideIndex = 1}    
+    if (n < 1) {slideIndex = slides.length}
+    for (i = 0; i < slides.length; i++) {
+        slides[i].style.display = "none";  
+    }
+    for (i = 0; i < dots.length; i++) {
+        dots[i].className = dots[i].className.replace(" active", "");
+    }
+    slides[slideIndex-1].style.display = "block";  
+    dots[slideIndex-1].className += " active";
+  }
+  </script>
+
