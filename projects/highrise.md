@@ -26,4 +26,154 @@ titles:
   # @end locale config
 key: page-about
 ---
-## Highrise
+##### Highrise
+
+  <div class="slideshow-container">
+  <center>
+    <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/commercial/幻灯片1.JPG">
+      <div class="text">Caption Text</div>
+    </div>
+
+    <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/commercial/幻灯片2.JPG">
+      <div class="text">Caption Two</div>
+    </div>
+
+    <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/commercial/幻灯片3.JPG">
+      <div class="text">Caption Two</div>
+    </div>
+
+    <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/commercial/幻灯片4.JPG">
+      <div class="text">Caption Two</div>
+    </div>    
+
+    <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/commercial/幻灯片5.JPG">
+      <div class="text">Caption Two</div>
+    </div>        
+
+    <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/commercial/幻灯片6.JPG">
+      <div class="text">Caption Two</div>
+    </div>            
+
+    <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/commercial/幻灯片7.JPG">
+      <div class="text">Caption Two</div>
+    </div>          
+
+    <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/commercial/幻灯片8.JPG">
+      <div class="text">Caption Two</div>
+    </div>        
+
+    <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/commercial/幻灯片9.JPG">
+      <div class="text">Caption Two</div>
+    </div>        
+
+    <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/commercial/幻灯片10.JPG">
+      <div class="text">Caption Two</div>
+    </div>        
+
+    <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/commercial/幻灯片11.JPG">
+      <div class="text">Caption Two</div>
+    </div>       
+
+    <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/commercial/幻灯片12.JPG">
+      <div class="text">Caption Two</div>
+    </div>       
+
+    <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/commercial/幻灯片13.JPG">
+      <div class="text">Caption Two</div>
+    </div>         
+
+    <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/commercial/幻灯片14.JPG">
+      <div class="text">Caption Two</div>
+    </div>             
+
+    <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/commercial/幻灯片15.JPG">
+      <div class="text">Caption Two</div>
+    </div>          
+
+    <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/commercial/幻灯片16.JPG">
+      <div class="text">Caption Two</div>
+    </div>              
+
+    <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/commercial/幻灯片17.JPG">
+      <div class="text">Caption Two</div>
+    </div>       
+
+    <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/commercial/幻灯片18.JPG">
+      <div class="text">Caption Two</div>
+    </div>       
+
+  </center>
+  <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+  <a class="next" onclick="plusSlides(1)">&#10095;</a>
+
+  </div>
+  <br>
+
+  <div style="text-align:center">
+    
+  </div>
+
+  <script>
+  var slideIndex = 1;
+  showSlides(slideIndex);
+
+  function plusSlides(n) {
+    showSlides(slideIndex += n);
+  }
+
+  function currentSlide(n) {
+    showSlides(slideIndex = n);
+  }
+
+  function showSlides(n) {
+    var i;
+    var slides = document.getElementsByClassName("mySlides");
+    var dots = document.getElementsByClassName("dot");
+    if (n > slides.length) {slideIndex = 1}    
+    if (n < 1) {slideIndex = slides.length}
+    for (i = 0; i < slides.length; i++) {
+        slides[i].style.display = "none";  
+    }
+    for (i = 0; i < dots.length; i++) {
+        dots[i].className = dots[i].className.replace(" active", "");
+    }
+    slides[slideIndex-1].style.display = "block";  
+    dots[slideIndex-1].className += " active";
+  }
+  </script>
