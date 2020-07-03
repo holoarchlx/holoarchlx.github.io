@@ -138,6 +138,54 @@ key: page-about
       <div class="text">Caption Fourteen</div>
     </div>
 
+        <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/commercial/Zhenjiang Urban Comlex-1.JPG">
+      <div class="text">Caption Fourteen</div>
+    </div>
+
+        <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/commercial/Zhenjiang Urban Comlex-2.JPG">
+      <div class="text">Caption Fourteen</div>
+    </div>    
+
+        <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/commercial/Zhenjiang Urban Comlex-3.JPG">
+      <div class="text">Caption Fourteen</div>
+    </div> 
+
+        <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/commercial/Zhenjiang Urban Comlex-4.JPG">
+      <div class="text">Caption Fourteen</div>
+    </div> 
+
+        <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/commercial/Songlanshan Beach Hotel-01.JPG">
+      <div class="text">Caption Fourteen</div>
+    </div> 
+
+        <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/commercial/Songlanshan Beach Hotel-02.JPG">
+      <div class="text">Caption Fourteen</div>
+    </div>     
+
+        <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/commercial/Songlanshan Beach Hotel-03.JPG">
+      <div class="text">Caption Fourteen</div>
+    </div>       
+
+        <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/commercial/Songlanshan Beach Hotel-04.JPG">
+      <div class="text">Caption Fourteen</div>
+    </div>          
+
   </center>
   <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
   <a class="next" onclick="plusSlides(1)">&#10095;</a>
