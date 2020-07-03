@@ -32,109 +32,109 @@ key: page-about
   <center>
     <div class="mySlides fade">
       <div class="numbertext"></div>
-      <img src="/projects/images/commercial/幻灯片1.JPG">
+      <img src="/projects/images/highrise/幻灯片1.JPG">
       <div class="text">Caption Text</div>
     </div>
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
-      <img src="/projects/images/commercial/幻灯片2.JPG">
+      <img src="/projects/images/highrise/幻灯片2.JPG">
       <div class="text">Caption Two</div>
     </div>
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
-      <img src="/projects/images/commercial/幻灯片3.JPG">
+      <img src="/projects/images/highrise/幻灯片3.JPG">
       <div class="text">Caption Two</div>
     </div>
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
-      <img src="/projects/images/commercial/幻灯片4.JPG">
+      <img src="/projects/images/highrise/幻灯片4.JPG">
       <div class="text">Caption Two</div>
     </div>    
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
-      <img src="/projects/images/commercial/幻灯片5.JPG">
+      <img src="/projects/images/highrise/幻灯片5.JPG">
       <div class="text">Caption Two</div>
     </div>        
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
-      <img src="/projects/images/commercial/幻灯片6.JPG">
+      <img src="/projects/images/highrise/幻灯片6.JPG">
       <div class="text">Caption Two</div>
     </div>            
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
-      <img src="/projects/images/commercial/幻灯片7.JPG">
+      <img src="/projects/images/highrise/幻灯片7.JPG">
       <div class="text">Caption Two</div>
     </div>          
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
-      <img src="/projects/images/commercial/幻灯片8.JPG">
+      <img src="/projects/images/highrise/幻灯片8.JPG">
       <div class="text">Caption Two</div>
     </div>        
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
-      <img src="/projects/images/commercial/幻灯片9.JPG">
+      <img src="/projects/images/highrise/幻灯片9.JPG">
       <div class="text">Caption Two</div>
     </div>        
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
-      <img src="/projects/images/commercial/幻灯片10.JPG">
+      <img src="/projects/images/highrise/幻灯片10.JPG">
       <div class="text">Caption Two</div>
     </div>        
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
-      <img src="/projects/images/commercial/幻灯片11.JPG">
+      <img src="/projects/images/highrise/幻灯片11.JPG">
       <div class="text">Caption Two</div>
     </div>       
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
-      <img src="/projects/images/commercial/幻灯片12.JPG">
+      <img src="/projects/images/highrise/幻灯片12.JPG">
       <div class="text">Caption Two</div>
     </div>       
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
-      <img src="/projects/images/commercial/幻灯片13.JPG">
+      <img src="/projects/images/highrise/幻灯片13.JPG">
       <div class="text">Caption Two</div>
     </div>         
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
-      <img src="/projects/images/commercial/幻灯片14.JPG">
+      <img src="/projects/images/highrise/幻灯片14.JPG">
       <div class="text">Caption Two</div>
     </div>             
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
-      <img src="/projects/images/commercial/幻灯片15.JPG">
+      <img src="/projects/images/highrise/幻灯片15.JPG">
       <div class="text">Caption Two</div>
     </div>          
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
-      <img src="/projects/images/commercial/幻灯片16.JPG">
+      <img src="/projects/images/highrise/幻灯片16.JPG">
       <div class="text">Caption Two</div>
     </div>              
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
-      <img src="/projects/images/commercial/幻灯片17.JPG">
+      <img src="/projects/images/highrise/幻灯片17.JPG">
       <div class="text">Caption Two</div>
     </div>       
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
-      <img src="/projects/images/commercial/幻灯片18.JPG">
+      <img src="/projects/images/highrise/幻灯片18.JPG">
       <div class="text">Caption Two</div>
     </div>       
 
