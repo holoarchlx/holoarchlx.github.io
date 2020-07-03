@@ -140,7 +140,7 @@ key: page-about
 
         <div class="mySlides fade">
       <div class="numbertext"></div>
-      <img src="/projects/images/commercial/Zhenjiang Urban Comlex-1.JPG">
+      <img src="/projects/images/commercial/Zhenjiang Urban Comlex-1.jpg">
       <div class="text">Caption Fourteen</div>
     </div>
 
@@ -170,7 +170,7 @@ key: page-about
 
         <div class="mySlides fade">
       <div class="numbertext"></div>
-      <img src="/projects/images/commercial/Songlanshan Beach Hotel-02.JPG">
+      <img src="/projects/images/commercial/Songlanshan Beach Hotel-02.jpg">
       <div class="text">Caption Fourteen</div>
     </div>     
 
