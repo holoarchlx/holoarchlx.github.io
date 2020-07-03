@@ -30,8 +30,10 @@ key: page-about
 [Commercial](/projects/commercial.html)
 
 Institutional
+[Institutional](/projects/institutional.html)
 
 Highrise
+[Highrise](/projects/highrise.html)
 
 Green Building
 
