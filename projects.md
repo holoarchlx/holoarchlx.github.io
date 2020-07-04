@@ -37,13 +37,8 @@ key: page-about
 
 [Urban Design]()
 
-
   <br>
   <br>
 
-
-
-
-
- <font size="1">* Works conducted by HoloARCH founders before HoloARCH establishment</font>
+ <font size="1">* Works conducted by HoloARCH founders prior to HoloARCH</font>
 
