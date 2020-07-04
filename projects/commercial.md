@@ -218,13 +218,13 @@ key: page-about
 
         <div class="mySlides fade">
       <div class="numbertext"></div>
-      <img src="/projects/images/commercial/BM Hill Hotel-02.JPG">
+      <img src="/projects/images/commercial/BM Hill Hotel-02.jpg">
       <div class="text">Caption Fourteen</div>
     </div>      
 
         <div class="mySlides fade">
       <div class="numbertext"></div>
-      <img src="/projects/images/commercial/BM Hill Hotel-03.JPG">
+      <img src="/projects/images/commercial/BM Hill Hotel-03.jpg">
       <div class="text">Caption Fourteen</div>
     </div>    
 
