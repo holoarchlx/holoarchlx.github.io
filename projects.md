@@ -41,5 +41,5 @@ key: page-about
 
 
  
- <small><small>* Works conducted by HoloARCH founders prior to HoloARCH</small></small>
+ <font size="1">* Works conducted by HoloARCH founders prior to HoloARCH</font>
 
