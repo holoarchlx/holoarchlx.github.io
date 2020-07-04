@@ -36,3 +36,9 @@ key: page-about
 [Green Building]()
 
 [Urban Design]()
+
+
+
+<small>
+  * Works conducted by HoloARCH founders before HoloARCH establishment
+</small>
