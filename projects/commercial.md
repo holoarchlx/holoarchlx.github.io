@@ -212,6 +212,78 @@ key: page-about
 
         <div class="mySlides fade">
       <div class="numbertext"></div>
+      <img src="/projects/images/commercial/BM Hill Hotel-01.JPG">
+      <div class="text">Caption Fourteen</div>
+    </div>      
+
+        <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/commercial/BM Hill Hotel-02.JPG">
+      <div class="text">Caption Fourteen</div>
+    </div>      
+
+        <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/commercial/BM Hill Hotel-03.JPG">
+      <div class="text">Caption Fourteen</div>
+    </div>    
+
+        <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/commercial/BM Hill Hotel-04.JPG">
+      <div class="text">Caption Fourteen</div>
+    </div>    
+
+        <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/commercial/BM Hill Hotel-05.JPG">
+      <div class="text">Caption Fourteen</div>
+    </div>   
+
+        <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/commercial/BM Hill Hotel-06.JPG">
+      <div class="text">Caption Fourteen</div>
+    </div>   
+
+        <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/commercial/BM Hill Hotel-07.JPG">
+      <div class="text">Caption Fourteen</div>
+    </div>   
+
+        <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/commercial/BM Hill Hotel-08.JPG">
+      <div class="text">Caption Fourteen</div>
+    </div>   
+
+        <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/commercial/BM Hill Hotel-09.JPG">
+      <div class="text">Caption Fourteen</div>
+    </div>   
+
+        <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/commercial/BM Hill Hotel-10.JPG">
+      <div class="text">Caption Fourteen</div>
+    </div>   
+
+        <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/commercial/BM Hill Hotel-11.JPG">
+      <div class="text">Caption Fourteen</div>
+    </div>   
+
+        <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/commercial/BM Hill Hotel-12.JPG">
+      <div class="text">Caption Fourteen</div>
+    </div>   
+
+        <div class="mySlides fade">
+      <div class="numbertext"></div>
       <img src="/projects/images/commercial/61-Dubai Sports City Mall.JPG">
       <div class="text">Caption Fourteen</div>
     </div>       
