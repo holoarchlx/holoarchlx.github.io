@@ -33,7 +33,7 @@ key: page-about
 
 [Highrise](/projects/highrise.html)
 
-[Green Building]()
+[Green Building](/projects/green-building.html)
 
 [Urban Design]()
 
