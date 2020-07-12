@@ -32,109 +32,109 @@ key: page-about
   <center>
     <div class="mySlides fade">
       <div class="numbertext"></div>
-      <img src="/projects/images/highrise/幻灯片1.JPG">
+      <img src="/projects/images/highrise/11-CQ Skyscraper.JPG">
       <div class="text">Caption Text</div>
     </div>
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
-      <img src="/projects/images/highrise/幻灯片2.JPG">
+      <img src="/projects/images/highrise/12-CQ Skyscraper.JPG">
       <div class="text">Caption Two</div>
     </div>
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
-      <img src="/projects/images/highrise/幻灯片3.JPG">
+      <img src="/projects/images/highrise/13-CQ Skyscraper.JPG">
       <div class="text">Caption Two</div>
     </div>
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
-      <img src="/projects/images/highrise/幻灯片4.JPG">
+      <img src="/projects/images/highrise/14-CQ Skyscraper.JPG">
       <div class="text">Caption Two</div>
     </div>    
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
-      <img src="/projects/images/highrise/幻灯片5.JPG">
+      <img src="/projects/images/highrise/21-Dashang Tower.JPG">
       <div class="text">Caption Two</div>
     </div>        
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
-      <img src="/projects/images/highrise/幻灯片6.JPG">
+      <img src="/projects/images/highrise/22-Dashang Tower.JPG">
       <div class="text">Caption Two</div>
     </div>            
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
-      <img src="/projects/images/highrise/幻灯片7.JPG">
+      <img src="/projects/images/highrise/23-Dashang Tower.JPG">
       <div class="text">Caption Two</div>
     </div>          
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
-      <img src="/projects/images/highrise/幻灯片8.JPG">
+      <img src="/projects/images/highrise/24-Dashang Tower.JPG">
       <div class="text">Caption Two</div>
     </div>        
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
-      <img src="/projects/images/highrise/幻灯片9.JPG">
+      <img src="/projects/images/highrise/25-Dashang Tower.JPG">
       <div class="text">Caption Two</div>
     </div>        
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
-      <img src="/projects/images/highrise/幻灯片10.JPG">
+      <img src="/projects/images/highrise/31-Dubai Bay Tower & Complex.JPG">
       <div class="text">Caption Two</div>
     </div>        
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
-      <img src="/projects/images/highrise/幻灯片11.JPG">
+      <img src="/projects/images/highrise/32-Dubai Bay Tower & Complex.JPG">
       <div class="text">Caption Two</div>
     </div>       
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
-      <img src="/projects/images/highrise/幻灯片12.JPG">
+      <img src="/projects/images/highrise/40-Zhenjiang Urban Comlex.JPG">
       <div class="text">Caption Two</div>
     </div>       
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
-      <img src="/projects/images/highrise/幻灯片13.JPG">
+      <img src="/projects/images/highrise/50-Foshan TV Tower.JPG">
       <div class="text">Caption Two</div>
     </div>         
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
-      <img src="/projects/images/highrise/幻灯片14.JPG">
+      <img src="/projects/images/highrise/60-Dubai Sports Shopping Mall.JPG">
       <div class="text">Caption Two</div>
     </div>             
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
-      <img src="/projects/images/highrise/幻灯片15.JPG">
+      <img src="/projects/images/highrise/71-CISDI Headquarters.JPG">
       <div class="text">Caption Two</div>
     </div>          
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
-      <img src="/projects/images/highrise/幻灯片16.JPG">
+      <img src="/projects/images/highrise/72-CISDI Headquarters.JPG">
       <div class="text">Caption Two</div>
     </div>              
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
-      <img src="/projects/images/highrise/幻灯片17.JPG">
+      <img src="/projects/images/highrise/81-Hengzhou Island Hotel.JPG">
       <div class="text">Caption Two</div>
     </div>       
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
-      <img src="/projects/images/highrise/幻灯片18.JPG">
+      <img src="/projects/images/highrise/82-Hengzhou Island Hotel.JPG">
       <div class="text">Caption Two</div>
     </div>       
 
