@@ -32,90 +32,90 @@ key: page-about
   <center>
     <div class="mySlides fade">
       <div class="numbertext"></div>
-      <img src="/projects/images/green/11-CQ Skyscraper.jpg">
+      <img src="/projects/images/green/11-CQ Skyscraper.JPG">
       <div class="text">Caption Text</div>
     </div>
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
-      <img src="/projects/images/green/12-CQ Skyscraper.jpg">
+      <img src="/projects/images/green/12-CQ Skyscraper.JPG">
       <div class="text">Caption Text</div>
     </div>
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
-      <img src="/projects/images/green/13-CQ Skyscraper.jpg">
+      <img src="/projects/images/green/13-CQ Skyscraper.JPG">
       <div class="text">Caption Text</div>
     </div>
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
-      <img src="/projects/images/green/14-CQ Skyscraper.jpg">
+      <img src="/projects/images/green/14-CQ Skyscraper.JPG">
       <div class="text">Caption Text</div>
     </div>
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
-      <img src="/projects/images/green/21-Dashang Tower.jpg">
+      <img src="/projects/images/green/21-Dashang Tower.JPG">
       <div class="text">Caption Text</div>
     </div>
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
-      <img src="/projects/images/green/22-Dashang Tower.jpg">
+      <img src="/projects/images/green/22-Dashang Tower.JPG">
       <div class="text">Caption Text</div>
     </div>
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
-      <img src="/projects/images/green/23-Dashang Tower.jpg">
+      <img src="/projects/images/green/23-Dashang Tower.JPG">
       <div class="text">Caption Text</div>
     </div>
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
-      <img src="/projects/images/green/31-Hengzhou Island Hotel.jpg">
+      <img src="/projects/images/green/31-Hengzhou Island Hotel.JPG">
       <div class="text">Caption Text</div>
     </div>
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
-      <img src="/projects/images/green/32-Hengzhou Island Hotel.jpg">
+      <img src="/projects/images/green/32-Hengzhou Island Hotel.JPG">
       <div class="text">Caption Text</div>
     </div>                                
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
-      <img src="/projects/images/green/41-Guangzhou Central Library.jpg">
+      <img src="/projects/images/green/41-Guangzhou Central Library.JPG">
       <div class="text">Caption Text</div>
     </div>                                
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
-      <img src="/projects/images/green/42-Guangzhou Central Library.jpg">
+      <img src="/projects/images/green/42-Guangzhou Central Library.JPG">
       <div class="text">Caption Text</div>
     </div>           
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
-      <img src="/projects/images/green/51-CISDI Headquarters.jpg">
+      <img src="/projects/images/green/51-CISDI Headquarters.JPG">
       <div class="text">Caption Text</div>
     </div>      
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
-      <img src="/projects/images/green/52-CISDI Headquarters.jpg">
+      <img src="/projects/images/green/52-CISDI Headquarters.JPG">
       <div class="text">Caption Text</div>
     </div>            
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
-      <img src="/projects/images/green/53-CISDI Headquarters.jpg">
+      <img src="/projects/images/green/53-CISDI Headquarters.JPG">
       <div class="text">Caption Text</div>
     </div>           
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
-      <img src="/projects/images/green/61-Yuzhong Culture Center.jpg">
+      <img src="/projects/images/green/61-Yuzhong Culture Center.JPG">
       <div class="text">Caption Text</div>
     </div>                                         
