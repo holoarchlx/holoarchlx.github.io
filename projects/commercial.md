@@ -39,7 +39,7 @@ key: page-about
     <div class="mySlides fade">
       <div class="numbertext"></div>
       <img src="/projects/images/commercial/Qisha Hotel-02.jpg">
-      <div class="text">Caption Two</div>
+      <div class="text">Qisha Hotel</div>
     </div>
 
     <div class="mySlides fade">
@@ -311,6 +311,84 @@ key: page-about
       <img src="/projects/images/commercial/65-Dubai Sports City Mall.JPG">
       <div class="text">Caption Fourteen</div>
     </div>          
+
+    <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/commercial/Henggang Shopping Park-1.JPG">
+      <div class="text">Caption Six</div>
+    </div>
+
+    <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/commercial/Henggang Shopping Park-2.JPG">
+      <div class="text">Caption Six</div>
+    </div>
+
+    <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/commercial/Henggang Shopping Park-2.JPG">
+      <div class="text">Caption Six</div>
+    </div>
+    
+    <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/commercial/Henggang Shopping Park-3.JPG">
+      <div class="text">Caption Six</div>
+    </div>
+
+    <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/commercial/Henggang Shopping Park-4.JPG">
+      <div class="text">Caption Six</div>
+    </div>
+
+    <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/commercial/Henggang Shopping Park-5.JPG">
+      <div class="text">Caption Six</div>
+    </div>
+
+    <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/commercial/Henggang Shopping Park-6.JPG">
+      <div class="text">Caption Six</div>
+    </div>
+
+    <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/commercial/Henggang Shopping Park-7.JPG">
+      <div class="text">Caption Six</div>
+    </div>
+
+    <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/commercial/Henggang Shopping Park-8.JPG">
+      <div class="text">Caption Six</div>
+    </div>
+
+    <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/commercial/Henggang Shopping Park-10.JPG">
+      <div class="text">Caption Six</div>
+    </div>
+
+    <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/commercial/Henggang Shopping Park-11.JPG">
+      <div class="text">Caption Six</div>
+    </div>
+
+    <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/commercial/Henggang Shopping Park-12.JPG">
+      <div class="text">Caption Six</div>
+    </div>
+
+    <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/commercial/Henggang Shopping Park-13.JPG">
+      <div class="text">Caption Six</div>
+    </div>
 
         <div class="mySlides fade">
       <div class="numbertext"></div>
