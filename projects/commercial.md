@@ -33,7 +33,7 @@ key: page-about
     <div class="mySlides fade">
       <div class="numbertext"></div>
       <img src="/projects/images/commercial/Qisha Hotel-01.jpg">
-      <div class="text">Caption Text</div>
+      <div class="text">Qisha Hotel</div>
     </div>
 
     <div class="mySlides fade">
