@@ -314,7 +314,7 @@ key: page-about
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
-      <img src="/projects/images/commercial/Henggang Shopping Park-1.JPG">
+      <img src="/projects/images/commercial/Henggang Shopping Park-1.jpg">
       <div class="text">* Henggang Shopping Park</div>
     </div>
 
