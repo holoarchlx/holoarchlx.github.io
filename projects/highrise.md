@@ -51,7 +51,7 @@ key: page-about
     <div class="mySlides fade">
       <div class="numbertext"></div>
       <img src="/projects/images/highrise/14-CQ Skyscraper.JPG">
-      <div class="text">CQ Skyscraper</div>
+      <div class="text">CQ Skyscraper *</div>
     </div>    
 
     <div class="mySlides fade">
