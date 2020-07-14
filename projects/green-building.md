@@ -33,91 +33,91 @@ key: page-about
     <div class="mySlides fade">
       <div class="numbertext"></div>
       <img src="/projects/images/green/11-CQ Skyscraper.JPG">
-      <div class="text">Caption Text</div>
+      <div class="text">* CQ Skyscraper</div>
     </div>
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
       <img src="/projects/images/green/12-CQ Skyscraper.JPG">
-      <div class="text">Caption Text</div>
+      <div class="text">* CQ Skyscraper</div>
     </div>
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
       <img src="/projects/images/green/13-CQ Skyscraper.JPG">
-      <div class="text">Caption Text</div>
+      <div class="text">* CQ Skyscraper</div>
     </div>
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
       <img src="/projects/images/green/14-CQ Skyscraper.JPG">
-      <div class="text">Caption Text</div>
+      <div class="text">* CQ Skyscraper</div>
     </div>
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
       <img src="/projects/images/green/21-Dashang Tower.JPG">
-      <div class="text">Caption Text</div>
+      <div class="text">* Dashang Tower</div>
     </div>
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
       <img src="/projects/images/green/22-Dashang Tower.JPG">
-      <div class="text">Caption Text</div>
+      <div class="text">* Dashang Tower</div>
     </div>
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
       <img src="/projects/images/green/23-Dashang Tower.JPG">
-      <div class="text">Caption Text</div>
+      <div class="text">* Dashang Tower</div>
     </div>
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
       <img src="/projects/images/green/31-Hengzhou Island Hotel.JPG">
-      <div class="text">Caption Text</div>
+      <div class="text">* Hengzhou Island Hotel</div>
     </div>
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
       <img src="/projects/images/green/32-Hengzhou Island Hotel.JPG">
-      <div class="text">Caption Text</div>
+      <div class="text">* Hengzhou Island Hotel</div>
     </div>                                
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
       <img src="/projects/images/green/41-Guangzhou Central Library.JPG">
-      <div class="text">Caption Text</div>
+      <div class="text">* Guangzhou Central Library</div>
     </div>                                
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
       <img src="/projects/images/green/42-Guangzhou Central Library.JPG">
-      <div class="text">Caption Text</div>
+      <div class="text">* Guangzhou Central Library</div>
     </div>           
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
       <img src="/projects/images/green/51-CISDI Headquarters.JPG">
-      <div class="text">Caption Text</div>
+      <div class="text">* CISDI Headquarters</div>
     </div>      
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
       <img src="/projects/images/green/52-CISDI Headquarters.JPG">
-      <div class="text">Caption Text</div>
+      <div class="text">* CISDI Headquarters</div>
     </div>            
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
       <img src="/projects/images/green/53-CISDI Headquarters.JPG">
-      <div class="text">Caption Text</div>
+      <div class="text">* CISDI Headquarters</div>
     </div>           
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
       <img src="/projects/images/green/61-Yuzhong Culture Center.JPG">
-      <div class="text">Caption Text</div>
+      <div class="text">* Yuzhong Culture Center</div>
     </div>                                         
 
   </center>

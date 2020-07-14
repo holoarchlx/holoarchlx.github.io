@@ -33,133 +33,133 @@ key: page-about
     <div class="mySlides fade">
       <div class="numbertext"></div>
       <img src="/projects/images/institutional/01-SEPU Library.JPG">
-      <div class="text">Caption Text</div>
+      <div class="text">SEPU Library</div>
     </div>
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
       <img src="/projects/images/institutional/02-Mansion Office.JPG">
-      <div class="text">Caption Two</div>
+      <div class="text">The Mansion Office</div>
     </div>
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
       <img src="/projects/images/institutional/03-Mansion Office.JPG">
-      <div class="text">Caption Two</div>
+      <div class="text">The Mansion Office</div>
     </div>    
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
       <img src="/projects/images/institutional/04-Mansion Office.JPG">
-      <div class="text">Caption Two</div>
+      <div class="text">The Mansion Office</div>
     </div>      
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
       <img src="/projects/images/institutional/05-Mansion Office.JPG">
-      <div class="text">Caption Two</div>
+      <div class="text">The Mansion Office</div>
     </div>         
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
       <img src="/projects/images/institutional/06-Mansion Office.JPG">
-      <div class="text">Caption Two</div>
+      <div class="text">The Mansion Office</div>
     </div>             
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
       <img src="/projects/images/institutional/07-Mansion Office.JPG">
-      <div class="text">Caption Two</div>
+      <div class="text">The Mansion Office</div>
     </div>       
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
       <img src="/projects/images/institutional/08-Mansion Office.JPG">
-      <div class="text">Caption Two</div>
+      <div class="text">The Mansion Office</div>
     </div>        
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
       <img src="/projects/images/institutional/09-Mansion Office.JPG">
-      <div class="text">Caption Two</div>
+      <div class="text">The Mansion Office</div>
     </div>          
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
       <img src="/projects/images/institutional/10-Mansion Office.JPG">
-      <div class="text">Caption Two</div>
+      <div class="text">The Mansion Office</div>
     </div>              
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
-      <img src="/projects/images/institutional/11-Knight Performing Arts Theat.JPG">
-      <div class="text">Caption Two</div>
+      <img src="/projects/images/institutional/11-Knight Performing Arts Theater.JPG">
+      <div class="text">* Knight Performing Arts Theater</div>
     </div>         
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
-      <img src="/projects/images/institutional/12-Knight Performing Arts Theat.JPG">
-      <div class="text">Caption Two</div>
+      <img src="/projects/images/institutional/12-Knight Performing Arts Theater.JPG">
+      <div class="text">* Knight Performing Arts Theater</div>
     </div>         
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
-      <img src="/projects/images/institutional/13-Knight Performing Arts Theat.JPG">
-      <div class="text">Caption Two</div>
+      <img src="/projects/images/institutional/13-Knight Performing Arts Theater.JPG">
+      <div class="text">* Knight Performing Arts Theater</div>
     </div>        
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
-      <img src="/projects/images/institutional/14-Knight Performing Arts Theat.JPG">
-      <div class="text">Caption Two</div>
+      <img src="/projects/images/institutional/14-Knight Performing Arts Theater.JPG">
+      <div class="text">* Knight Performing Arts Theater</div>
     </div>      
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
-      <img src="/projects/images/institutional/15-Foshan TV Towe.JPG">
-      <div class="text">Caption Two</div>
+      <img src="/projects/images/institutional/15-Foshan TV Tower.JPG">
+      <div class="text">* Foshan TV Tower</div>
     </div>         
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
       <img src="/projects/images/institutional/16-CISDI Headquarters.JPG">
-      <div class="text">Caption Two</div>
+      <div class="text">* CISDI Headquarters</div>
     </div>            
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
       <img src="/projects/images/institutional/17-CISDI Headquarters.JPG">
-      <div class="text">Caption Two</div>
+      <div class="text">* CISDI Headquarters</div>
     </div>        
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
       <img src="/projects/images/institutional/18-Guangzhou Central Library.JPG">
-      <div class="text">Caption Two</div>
+      <div class="text">* Guangzhou Central Library</div>
     </div>        
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
       <img src="/projects/images/institutional/19-Guangzhou Central Library.JPG">
-      <div class="text">Caption Two</div>
+      <div class="text">* Guangzhou Central Library</div>
     </div>         
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
       <img src="/projects/images/institutional/20-Guangzhou Central Library.JPG">
-      <div class="text">Caption Two</div>
+      <div class="text">* Guangzhou Central Library</div>
     </div>          
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
       <img src="/projects/images/institutional/21-Yuzhong Culture Center.JPG">
-      <div class="text">Caption Two</div>
+      <div class="text">* Yuzhong Culture Center</div>
     </div>            
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
       <img src="/projects/images/institutional/22-Yuzhong Culture Center.JPG">
-      <div class="text">Caption Two</div>
+      <div class="text">* Yuzhong Culture Center</div>
     </div>         
 
   </center>
