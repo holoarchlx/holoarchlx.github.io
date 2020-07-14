@@ -59,13 +59,7 @@ key: page-about
       <img src="/projects/images/commercial/Qisha Hotel-05.JPG">
       <div class="text">Qisha Hotel</div>
     </div>
-
-    <div class="mySlides fade">
-      <div class="numbertext"></div>
-      <img src="/projects/images/commercial/Qisha Hotel-06.JPG">
-      <div class="text">Caption Six</div>
-    </div>
-    
+  
     <div class="mySlides fade">
       <div class="numbertext"></div>
       <img src="/projects/images/commercial/Qisha Hotel-07.JPG">
@@ -74,20 +68,8 @@ key: page-about
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
-      <img src="/projects/images/commercial/Qisha Hotel-08.JPG">
-      <div class="text">Caption Eight</div>
-    </div>
-
-    <div class="mySlides fade">
-      <div class="numbertext"></div>
       <img src="/projects/images/commercial/Qisha Hotel-09.JPG">
       <div class="text">Qisha Hotel</div>
-    </div>
-
-    <div class="mySlides fade">
-      <div class="numbertext"></div>
-      <img src="/projects/images/commercial/Qisha Hotel-10.JPG">
-      <div class="text">Caption Ten</div>
     </div>
 
     <div class="mySlides fade">
@@ -104,20 +86,8 @@ key: page-about
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
-      <img src="/projects/images/commercial/Qisha Hotel-13.JPG">
-      <div class="text">Caption Thirteen</div>
-    </div>
-
-    <div class="mySlides fade">
-      <div class="numbertext"></div>
       <img src="/projects/images/commercial/Qisha Hotel-14.JPG">
       <div class="text">Qisha Hotel</div>
-    </div>
-
-    <div class="mySlides fade">
-      <div class="numbertext"></div>
-      <img src="/projects/images/commercial/Qisha Hotel-15.JPG">
-      <div class="text">Caption Fourteen</div>
     </div>
 
         <div class="mySlides fade">

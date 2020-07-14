@@ -33,55 +33,55 @@ key: page-about
     <div class="mySlides fade">
       <div class="numbertext"></div>
       <img src="/projects/images/highrise/11-CQ Skyscraper.JPG">
-      <div class="text">Caption Text</div>
+      <div class="text">CQ Skyscraper*</div>
     </div>
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
       <img src="/projects/images/highrise/12-CQ Skyscraper.JPG">
-      <div class="text">Caption Two</div>
+      <div class="text">CQ Skyscraper</div>
     </div>
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
       <img src="/projects/images/highrise/13-CQ Skyscraper.JPG">
-      <div class="text">Caption Two</div>
+      <div class="text">CQ Skyscraper</div>
     </div>
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
       <img src="/projects/images/highrise/14-CQ Skyscraper.JPG">
-      <div class="text">Caption Two</div>
+      <div class="text">CQ Skyscraper</div>
     </div>    
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
       <img src="/projects/images/highrise/21-Dashang Tower.JPG">
-      <div class="text">Caption Two</div>
+      <div class="text">Dashang Tower</div>
     </div>        
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
       <img src="/projects/images/highrise/22-Dashang Tower.JPG">
-      <div class="text">Caption Two</div>
+      <div class="text">Dashang Tower</div>
     </div>            
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
       <img src="/projects/images/highrise/23-Dashang Tower.JPG">
-      <div class="text">Caption Two</div>
+      <div class="text">Dashang Tower</div>
     </div>          
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
       <img src="/projects/images/highrise/24-Dashang Tower.JPG">
-      <div class="text">Caption Two</div>
+      <div class="text">Dashang Tower</div>
     </div>        
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
       <img src="/projects/images/highrise/25-Dashang Tower.JPG">
-      <div class="text">Caption Two</div>
+      <div class="text">Dashang Tower</div>
     </div>        
 
     <div class="mySlides fade">
