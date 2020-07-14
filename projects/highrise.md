@@ -45,13 +45,13 @@ key: page-about
     <div class="mySlides fade">
       <div class="numbertext"></div>
       <img src="/projects/images/highrise/13-CQ Skyscraper.JPG">
-      <div class="text">* CQ Skyscraper *</div>
+      <div class="text">* CQ Skyscraper</div>
     </div>
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
       <img src="/projects/images/highrise/14-CQ Skyscraper.JPG">
-      <div class="text">* CQ Skyscraper *</div>
+      <div class="text">* CQ Skyscraper</div>
     </div>    
 
     <div class="mySlides fade">
@@ -87,55 +87,55 @@ key: page-about
     <div class="mySlides fade">
       <div class="numbertext"></div>
       <img src="/projects/images/highrise/31-Dubai Bay Tower & Complex.JPG">
-      <div class="text">Caption Two</div>
+      <div class="text">* Dubai Bay Tower & Complex</div>
     </div>        
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
       <img src="/projects/images/highrise/32-Dubai Bay Tower & Complex.JPG">
-      <div class="text">Caption Two</div>
+      <div class="text">* Dubai Bay Tower & Complex</div>
     </div>       
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
       <img src="/projects/images/highrise/40-Zhenjiang Urban Comlex.JPG">
-      <div class="text">Caption Two</div>
+      <div class="text">* Zhenjiang Urban Comlex</div>
     </div>       
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
       <img src="/projects/images/highrise/50-Foshan TV Tower.JPG">
-      <div class="text">Caption Two</div>
+      <div class="text">* Foshan TV Tower</div>
     </div>         
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
       <img src="/projects/images/highrise/60-Dubai Sports Shopping Mall.JPG">
-      <div class="text">Caption Two</div>
+      <div class="text">* Dubai Sports Shopping Mall</div>
     </div>             
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
       <img src="/projects/images/highrise/71-CISDI Headquarters.JPG">
-      <div class="text">Caption Two</div>
+      <div class="text">* CISDI Headquarters</div>
     </div>          
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
       <img src="/projects/images/highrise/72-CISDI Headquarters.JPG">
-      <div class="text">Caption Two</div>
+      <div class="text">* CISDI Headquarters</div>
     </div>              
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
       <img src="/projects/images/highrise/81-Hengzhou Island Hotel.JPG">
-      <div class="text">Caption Two</div>
+      <div class="text">* Hengzhou Island Hotel</div>
     </div>       
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
       <img src="/projects/images/highrise/82-Hengzhou Island Hotel.JPG">
-      <div class="text">Caption Two</div>
+      <div class="text">* Hengzhou Island Hotel</div>
     </div>       
 
   </center>
