@@ -27,7 +27,7 @@ titles:
 key: page-about
 ---
 ## Projects
-[Commercial](/projects/commercial.html)
+[商业建筑（城市综合体、酒店、购物中心等）](/projects/commercial.html)
 
 [Institutional](/projects/institutional.html)
 
