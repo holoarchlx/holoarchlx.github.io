@@ -29,11 +29,11 @@ key: page-about
 ## Projects
 [商业建筑（城市综合体、酒店、购物中心等）](/projects/commercial.html)
 
-[Institutional](/projects/institutional.html)
+[文化建筑（图书馆、文化馆、学校等](/projects/institutional.html)
 
-[Highrise](/projects/highrise.html)
+[高层建筑](/projects/highrise.html)
 
-[Green Building](/projects/green-building.html)
+[绿色建筑](/projects/green-building.html)
 
 
 
