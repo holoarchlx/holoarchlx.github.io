@@ -26,7 +26,7 @@ titles:
   # @end locale config
 key: page-about
 ---
-### 设计作品
+## 设计作品
 [商业建筑（城市综合体、酒店、购物中心等）](/projects/commercial.html)
 
 [文化建筑（图书馆、文化馆、学校等](/projects/institutional.html)
