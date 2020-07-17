@@ -219,7 +219,7 @@ key: page-about
         <div class="mySlides fade">
       <div class="numbertext"></div>
       <img src="/projects/images/commercial/BM Hill Hotel-07.JPG">
-      <div class="text">* Miyun Hill Hoteln</div>
+      <div class="text">* Miyun Hill Hotel</div>
     </div>   
 
         <div class="mySlides fade">
