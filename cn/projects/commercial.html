@@ -1,316 +1,415 @@
-<!DOCTYPE html><html lang="en">
-    <head><!-- Global site tag (gtag.js) - Google Analytics -->
-      <script async src="https://www.googletagmanager.com/gtag/js?id=UA-155128332-1"></script>
-      <script>
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments);}
-          gtag('js', new Date());
-  
-          gtag('config', 'UA-155128332-1');
-          
-      </script><meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no"><title>Contact Us - HoloARCH 全度国际设计</title>
-  
-  <meta name="description" content="HoloARCH - Architecture, Urban Design, Interior Design
-  ">
-  <link rel="canonical" href="holoarch.com/contact.html"><link rel="alternate" type="application/rss+xml" title="HoloARCH 全度国际设计" href="/feed.xml"><!-- start favicons snippet, use https://realfavicongenerator.net/ --><link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png"><link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png"><link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png"><link rel="manifest" href="/assets/site.webmanifest"><link rel="mask-icon" href="/assets/safari-pinned-tab.svg" color="#fc4d50"><link rel="shortcut icon" href="/assets/favicon.ico">
-  
-  <meta name="msapplication-TileColor" content="#ffc40d"><meta name="msapplication-config" content="/assets/browserconfig.xml">
-  
-  <meta name="theme-color" content="#ffffff">
-  <!-- end favicons snippet --><link rel="stylesheet" href="/assets/css/main.css"><link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" ><!-- start custom head snippets -->
-  <style>
-  .header a, .header a:link, .header a:visited {
-      color: #638c64;
-  }
-  
-  a, a:link, a:visited {
-      color: #638c64;
-  }
-  
-  .navigation__item--active::after {
-      border: 0 solid #638c64;
-      border-bottom-width: 4px;
-  }
-  
-  ::-moz-selection { /* Code for Firefox */
-    background: #638c64;
-  }
-  
-  ::selection {
-    background: #638c64;
-  }
-  </style>
-  
-  
-  
-  
-  <!-- end custom head snippets -->
-  <script>(function() {
-    window.isArray = function(val) {
-      return Object.prototype.toString.call(val) === '[object Array]';
-    };
-    window.isString = function(val) {
-      return typeof val === 'string';
-    };
-  
-    window.hasEvent = function(event) {
-      return 'on'.concat(event) in window.document;
-    };
-  
-    window.isOverallScroller = function(node) {
-      return node === document.documentElement || node === document.body || node === window;
-    };
-  
-    window.isFormElement = function(node) {
-      var tagName = node.tagName;
-      return tagName === 'INPUT' || tagName === 'SELECT' || tagName === 'TEXTAREA';
-    };
-  
-    window.pageLoad = (function () {
-      var loaded = false, cbs = [];
-      window.addEventListener('load', function () {
-        var i;
-        loaded = true;
-        if (cbs.length > 0) {
-          for (i = 0; i < cbs.length; i++) {
-            cbs[i]();
-          }
-        }
-      });
-      return {
-        then: function(cb) {
-          cb && (loaded ? cb() : (cbs.push(cb)));
-        }
-      };
-    })();
-  })();
-  (function() {
-    window.throttle = function(func, wait) {
-      var args, result, thisArg, timeoutId, lastCalled = 0;
-  
-      function trailingCall() {
-        lastCalled = new Date;
-        timeoutId = null;
-        result = func.apply(thisArg, args);
-      }
-      return function() {
-        var now = new Date,
-          remaining = wait - (now - lastCalled);
-  
-        args = arguments;
-        thisArg = this;
-  
-        if (remaining <= 0) {
-          clearTimeout(timeoutId);
-          timeoutId = null;
-          lastCalled = now;
-          result = func.apply(thisArg, args);
-        } else if (!timeoutId) {
-          timeoutId = setTimeout(trailingCall, remaining);
-        }
-        return result;
-      };
-    };
-  })();
-  (function() {
-    var Set = (function() {
-      var add = function(item) {
-        var i, data = this._data;
-        for (i = 0; i < data.length; i++) {
-          if (data[i] === item) {
-            return;
-          }
-        }
-        this.size ++;
-        data.push(item);
-        return data;
-      };
-  
-      var Set = function(data) {
-        this.size = 0;
-        this._data = [];
-        var i;
-        if (data.length > 0) {
-          for (i = 0; i < data.length; i++) {
-            add.call(this, data[i]);
-          }
-        }
-      };
-      Set.prototype.add = add;
-      Set.prototype.get = function(index) { return this._data[index]; };
-      Set.prototype.has = function(item) {
-        var i, data = this._data;
-        for (i = 0; i < data.length; i++) {
-          if (this.get(i) === item) {
-            return true;
-          }
-        }
-        return false;
-      };
-      Set.prototype.is = function(map) {
-        if (map._data.length !== this._data.length) { return false; }
-        var i, j, flag, tData = this._data, mData = map._data;
-        for (i = 0; i < tData.length; i++) {
-          for (flag = false, j = 0; j < mData.length; j++) {
-            if (tData[i] === mData[j]) {
-              flag = true;
-              break;
-            }
-          }
-          if (!flag) { return false; }
-        }
-        return true;
-      };
-      Set.prototype.values = function() {
-        return this._data;
-      };
-      return Set;
-    })();
-  
-    window.Lazyload = (function(doc) {
-      var queue = {js: [], css: []}, sources = {js: {}, css: {}}, context = this;
-      var createNode = function(name, attrs) {
-        var node = doc.createElement(name), attr;
-        for (attr in attrs) {
-          if (attrs.hasOwnProperty(attr)) {
-            node.setAttribute(attr, attrs[attr]);
-          }
-        }
-        return node;
-      };
-      var end = function(type, url) {
-        var s, q, qi, cbs, i, j, cur, val, flag;
-        if (type === 'js' || type ==='css') {
-          s = sources[type], q = queue[type];
-          s[url] = true;
-          for (i = 0; i < q.length; i++) {
-            cur = q[i];
-            if (cur.urls.has(url)) {
-              qi = cur, val = qi.urls.values();
-              qi && (cbs = qi.callbacks);
-              for (flag = true, j = 0; j < val.length; j++) {
-                cur = val[j];
-                if (!s[cur]) {
-                  flag = false;
-                }
-              }
-              if (flag && cbs && cbs.length > 0) {
-                for (j = 0; j < cbs.length; j++) {
-                  cbs[j].call(context);
-                }
-                qi.load = true;
-              }
-            }
-          }
-        }
-      };
-      var load = function(type, urls, callback) {
-        var s, q, qi, node, i, cur,
-          _urls = typeof urls === 'string' ? new Set([urls]) : new Set(urls), val, url;
-        if (type === 'js' || type ==='css') {
-          s = sources[type], q = queue[type];
-          for (i = 0; i < q.length; i++) {
-            cur = q[i];
-            if (_urls.is(cur.urls)) {
-              qi = cur;
-              break;
-            }
-          }
-          val = _urls.values();
-          if (qi) {
-            callback && (qi.load || qi.callbacks.push(callback));
-            callback && (qi.load && callback());
-          } else {
-            q.push({
-              urls: _urls,
-              callbacks: callback ? [callback] : [],
-              load: false
-            });
-            for (i = 0; i < val.length; i++) {
-              node = null, url = val[i];
-              if (s[url] === undefined) {
-                (type === 'js' ) && (node = createNode('script', { src: url }));
-                (type === 'css') && (node = createNode('link', { rel: 'stylesheet', href: url }));
-                if (node) {
-                  node.onload = (function(type, url) {
-                    return function() {
-                      end(type, url);
-                    };
-                  })(type, url);
-                  (doc.head || doc.body).appendChild(node);
-                  s[url] = false;
-                }
-              }
-            }
-          }
-        }
-      };
-      return {
-        js: function(url, callback) {
-          load('js', url, callback);
-        },
-        css: function(url, callback) {
-          load('css', url, callback);
-        }
-      };
-    })(this.document);
-  })();
-  </script><script>
-    (function() {
-      var TEXT_VARIABLES = {
-        version: '2.2.5',
-        sources: {
-          font_awesome: 'https://use.fontawesome.com/releases/v5.0.13/css/all.css',
-          jquery: 'https://cdn.bootcss.com/jquery/3.1.1/jquery.min.js',
-          leancloud_js_sdk: '//cdn.jsdelivr.net/npm/leancloud-storage@3.13.2/dist/av-min.js',
-          chart: 'https://cdn.bootcss.com/Chart.js/2.7.2/Chart.bundle.min.js',
-          gitalk: {
-            js: 'https://cdn.bootcss.com/gitalk/1.2.2/gitalk.min.js',
-            css: 'https://cdn.bootcss.com/gitalk/1.2.2/gitalk.min.css'
-          },
-          valine: 'https://unpkg.com/valine/dist/Valine.min.js',
-          mathjax: 'https://cdn.bootcss.com/mathjax/2.7.4/MathJax.js?config=TeX-MML-AM_CHTML',
-          mermaid: 'https://cdn.bootcss.com/mermaid/8.0.0-rc.8/mermaid.min.js'
-        },
-        site: {
-          toc: {
-            selectors: 'h1,h2,h3'
-          }
-        },
-        paths: {
-          search_js: '/assets/search.js'
-        }
-      };
-      window.TEXT_VARIABLES = TEXT_VARIABLES;
-    })();
-  </script></head>
-    <body>
-      <div class="root" data-is-touch="false">
-        <div class="layout--page js-page-root"><div class="page__main js-page-main page__viewport cell cell--auto">
-  
-        <div class="page__main-inner"><div class="page__header d-print-none"><header class="header"><div class="main">
-        <div class="header__title">
-          <div class="header__brand"><svg id="svg" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="400" height="400" viewBox="0, 0, 400,400"><g id="svgg"><path id="path0" d="M0.000 80.696 L 0.000 161.392 7.102 154.298 L 14.205 147.203 66.202 199.202 C 94.800 227.801,118.379 251.193,118.599 251.185 C 118.820 251.176,127.190 243.091,137.200 233.217 L 155.400 215.265 103.200 163.015 C 74.490 134.277,50.910 110.666,50.800 110.545 C 50.690 110.423,57.260 103.779,65.400 95.780 L 80.200 81.235 132.499 133.516 L 184.798 185.797 198.543 172.057 L 212.288 158.317 227.001 172.999 L 241.715 187.681 227.975 201.425 C 220.418 208.984,214.378 215.311,214.551 215.484 C 214.725 215.658,226.306 227.320,240.286 241.400 C 254.266 255.480,277.605 278.925,292.150 293.501 L 318.594 320.002 303.999 334.601 C 295.972 342.630,289.292 349.200,289.156 349.200 C 288.865 349.200,247.879 308.214,210.767 270.811 L 184.782 244.621 166.591 262.809 C 156.586 272.812,148.400 281.200,148.400 281.449 C 148.400 281.698,171.900 305.266,200.623 333.824 L 252.846 385.746 246.223 392.377 C 242.580 396.024,239.600 399.232,239.600 399.504 C 239.600 399.897,256.277 400.000,319.800 400.000 L 400.000 400.000 400.000 200.000 L 400.000 0.000 200.000 0.000 L 0.000 0.000 0.000 80.696 M361.200 172.499 L 361.200 306.597 340.400 285.800 L 319.600 265.003 319.600 252.670 L 319.600 240.336 239.700 160.172 L 159.800 80.009 147.400 79.998 L 135.000 79.987 114.216 59.194 L 93.432 38.400 227.316 38.400 L 361.200 38.400 361.200 172.499 M219.453 80.280 C 219.298 80.436,241.627 103.022,269.074 130.473 C 296.521 157.923,319.119 180.241,319.290 180.070 C 319.462 179.898,319.557 157.357,319.502 129.978 L 319.400 80.200 269.568 80.098 C 242.161 80.043,219.609 80.124,219.453 80.280 M0.000 296.000 L 0.000 400.000 103.600 400.000 C 202.000 400.000,207.200 399.965,207.200 399.300 C 207.200 398.915,204.635 396.134,201.500 393.119 C 198.365 390.105,166.460 358.262,130.600 322.358 C 94.740 286.453,60.386 252.109,54.257 246.038 C 48.129 239.967,41.289 233.123,39.057 230.829 C 31.105 222.654,0.450 192.000,0.227 192.000 C 0.102 192.000,0.000 238.800,0.000 296.000 " stroke="none" fill="#638c64" fill-rule="evenodd"></path><path id="path1" d="M114.216 59.194 L 135.000 79.987 147.400 79.998 L 159.800 80.009 239.700 160.172 L 319.600 240.336 319.600 252.670 L 319.600 265.003 340.400 285.800 L 361.200 306.597 361.200 172.499 L 361.200 38.400 227.316 38.400 L 93.432 38.400 114.216 59.194 M319.502 129.978 C 319.557 157.357,319.462 179.898,319.290 180.070 C 319.119 180.241,296.521 157.923,269.074 130.473 C 241.627 103.022,219.298 80.436,219.453 80.280 C 219.609 80.124,242.161 80.043,269.568 80.098 L 319.400 80.200 319.502 129.978 M65.200 95.840 C 57.170 103.805,50.690 110.422,50.800 110.544 C 50.910 110.665,74.490 134.277,103.200 163.015 L 155.400 215.265 137.200 233.217 C 127.190 243.091,118.820 251.176,118.599 251.185 C 118.379 251.193,94.800 227.801,66.202 199.202 L 14.205 147.203 7.102 154.298 L 0.000 161.392 0.000 176.474 L 0.000 191.557 17.500 209.106 C 27.125 218.758,36.826 228.533,39.057 230.828 C 41.289 233.122,48.129 239.967,54.257 246.038 C 60.386 252.109,94.740 286.453,130.600 322.358 C 166.460 358.262,198.365 390.105,201.500 393.119 C 204.635 396.134,207.200 398.915,207.200 399.300 C 207.200 399.955,208.238 400.000,223.400 400.000 C 236.019 400.000,239.600 399.890,239.600 399.504 C 239.600 399.232,242.580 396.024,246.223 392.377 L 252.846 385.746 200.623 333.824 C 171.900 305.266,148.400 281.698,148.400 281.449 C 148.400 281.200,156.586 272.812,166.591 262.809 L 184.782 244.621 210.767 270.811 C 247.879 308.214,288.865 349.200,289.156 349.200 C 289.292 349.200,295.972 342.630,303.999 334.601 L 318.594 320.002 292.150 293.501 C 277.605 278.925,254.266 255.480,240.286 241.400 C 226.306 227.320,214.725 215.658,214.551 215.484 C 214.378 215.311,220.418 208.984,227.975 201.425 L 241.715 187.681 227.001 172.999 L 212.288 158.317 198.543 172.057 L 184.798 185.797 132.499 133.499 C 103.734 104.734,80.109 81.236,79.999 81.279 C 79.890 81.322,73.230 87.875,65.200 95.840 " stroke="none" fill="#fbfbfb" fill-rule="evenodd"></path></g></svg><a title="HoloARCH - Architecture, Urban Design, Interior Design
-  " href="/">HoloARCH 全度国际设计</a></div><button class="button button--secondary button--circle search-button js-search-toggle"><i class="fas fa-search"></i></button></div><nav class="navigation">
-    <ul><li class="navigation__item"><a href="/cn/about">公司</a></li><li class="navigation__item"><a href="/cn/projects">项目</a></li><li class="navigation__item"><a href="/cn/contact">联系</a></li><li class="navigation__item"><a href="/en">English</a></li><li><button class="button button--secondary button--circle search-button js-search-toggle"><i class="fas fa-search"></i></button></li></ul>
-        </nav></div>
-    </header>
-  </div><div class="page__content"><div class ="main"><div class="grid grid--reverse">
-  
-                <div class="col-aside d-print-none js-col-aside"></div>
-  
-                <div class="col-main cell cell--auto"><!-- start custom main top snippet -->
-  
-  <!-- end custom main top snippet --><article itemscope itemtype="http://schema.org/Article"><header style="display:none;"><h1>Contact Us</h1></header><meta itemprop="headline" content="Contact Us"><meta itemprop="author" content=""/><div class="js-article-content"><div class="layout--article"><!-- start custom article top snippet -->
-  
-  <!-- end custom article top snippet --><div class="article__content" itemprop="articleBody">
-  
-  <h4 id="商业建筑">商业建筑</h4>
 
-  <div class="slideshow-container">
-    <center>
+<!DOCTYPE html><html lang="en">
+  <head>
+    
+    <style>
+        * {box-sizing: border-box}
+        body {font-family: Verdana, sans-serif; margin:0}
+        .mySlides {display: none}
+        img {vertical-align: middle;}
+
+        /* Slideshow container */
+        .slideshow-container {
+          max-width: 1000px;
+          position: relative;
+          margin: auto;
+        }
+
+        /* Next & previous buttons */
+        .prev, .next {
+          cursor: pointer;
+          position: absolute;
+          top: 50%;
+          width: auto;
+          padding: 16px;
+          margin-top: -22px;
+          color: #638c64;
+          font-weight: bold;
+          font-size: 18px;
+          transition: 0.6s ease;
+          border-radius: 0 3px 3px 0;
+          user-select: none;
+        }
+
+        /* Position the "next button" to the right */
+        .next {
+          right: 0;
+          border-radius: 3px 0 0 3px;
+        }
+
+        /* On hover, add a black background color with a little bit see-through */
+        .prev:hover, .next:hover {
+          background-color: rgba(0,0,0,0.8);
+        }
+
+        /* Caption text */
+        .text {
+          color: #000000;
+          font-size: 13px;
+          padding: 8px 12px;
+          position: absolute;
+          bottom: auto;
+          width: 100%;
+          text-align: center;
+        }
+
+        /* Number text (1/3 etc) */
+        .numbertext {
+          color: #f2f2f2;
+          font-size: 12px;
+          padding: 8px 12px;
+          position: absolute;
+          top: 0;
+        }
+
+        /* The dots/bullets/indicators */
+        .dot {
+          cursor: pointer;
+          height: 15px;
+          width: 15px;
+          margin: 0 2px;
+          background-color: #bbb;
+          border-radius: 50%;
+          display: inline-block;
+          transition: background-color 0.6s ease;
+        }
+
+        .active, .dot:hover {
+          background-color: #717171;
+        }
+
+        /* Fading animation */
+        .fade {
+          -webkit-animation-name: fade;
+          -webkit-animation-duration: 1.5s;
+          animation-name: fade;
+          animation-duration: 1.5s;
+        }
+
+        @-webkit-keyframes fade {
+          from {opacity: .4} 
+          to {opacity: 1}
+        }
+
+        @keyframes fade {
+          from {opacity: .4} 
+          to {opacity: 1}
+        }
+
+        /* On smaller screens, decrease text size */
+        @media only screen and (max-width: 300px) {
+          .prev, .next,.text {font-size: 11px}
+        }
+    </style><!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-155128332-1"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+
+		gtag('config', 'UA-155128332-1');
+		
+	</script><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no"><title>Firm Profile - HoloARCH 全度国际设计</title>
+
+<meta name="description" content="HoloARCH - Architecture, Urban Design, Interior Design
+">
+<link rel="canonical" href="holoarch.com/projects/institutional.html"><link rel="alternate" type="application/rss+xml" title="HoloARCH 全度国际设计" href="/feed.xml"><!-- start favicons snippet, use https://realfavicongenerator.net/ --><link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png"><link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png"><link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png"><link rel="manifest" href="/assets/site.webmanifest"><link rel="mask-icon" href="/assets/safari-pinned-tab.svg" color="#fc4d50"><link rel="shortcut icon" href="/assets/favicon.ico">
+
+<meta name="msapplication-TileColor" content="#ffc40d"><meta name="msapplication-config" content="/assets/browserconfig.xml">
+
+<meta name="theme-color" content="#ffffff">
+<!-- end favicons snippet --><link rel="stylesheet" href="/assets/css/main.css"><link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" ><!-- start custom head snippets -->
+<style>
+.header a, .header a:link, .header a:visited {
+    color: #638c64;
+}
+
+a, a:link, a:visited {
+    color: #638c64;
+}
+
+.navigation__item--active::after {
+    border: 0 solid #638c64;
+    border-bottom-width: 4px;
+}
+
+::-moz-selection { /* Code for Firefox */
+  background: #638c64;
+}
+
+::selection {
+  background: #638c64;
+}
+</style>
+
+
+
+
+<!-- end custom head snippets -->
+<script>(function() {
+  window.isArray = function(val) {
+    return Object.prototype.toString.call(val) === '[object Array]';
+  };
+  window.isString = function(val) {
+    return typeof val === 'string';
+  };
+
+  window.hasEvent = function(event) {
+    return 'on'.concat(event) in window.document;
+  };
+
+  window.isOverallScroller = function(node) {
+    return node === document.documentElement || node === document.body || node === window;
+  };
+
+  window.isFormElement = function(node) {
+    var tagName = node.tagName;
+    return tagName === 'INPUT' || tagName === 'SELECT' || tagName === 'TEXTAREA';
+  };
+
+  window.pageLoad = (function () {
+    var loaded = false, cbs = [];
+    window.addEventListener('load', function () {
+      var i;
+      loaded = true;
+      if (cbs.length > 0) {
+        for (i = 0; i < cbs.length; i++) {
+          cbs[i]();
+        }
+      }
+    });
+    return {
+      then: function(cb) {
+        cb && (loaded ? cb() : (cbs.push(cb)));
+      }
+    };
+  })();
+})();
+(function() {
+  window.throttle = function(func, wait) {
+    var args, result, thisArg, timeoutId, lastCalled = 0;
+
+    function trailingCall() {
+      lastCalled = new Date;
+      timeoutId = null;
+      result = func.apply(thisArg, args);
+    }
+    return function() {
+      var now = new Date,
+        remaining = wait - (now - lastCalled);
+
+      args = arguments;
+      thisArg = this;
+
+      if (remaining <= 0) {
+        clearTimeout(timeoutId);
+        timeoutId = null;
+        lastCalled = now;
+        result = func.apply(thisArg, args);
+      } else if (!timeoutId) {
+        timeoutId = setTimeout(trailingCall, remaining);
+      }
+      return result;
+    };
+  };
+})();
+(function() {
+  var Set = (function() {
+    var add = function(item) {
+      var i, data = this._data;
+      for (i = 0; i < data.length; i++) {
+        if (data[i] === item) {
+          return;
+        }
+      }
+      this.size ++;
+      data.push(item);
+      return data;
+    };
+
+    var Set = function(data) {
+      this.size = 0;
+      this._data = [];
+      var i;
+      if (data.length > 0) {
+        for (i = 0; i < data.length; i++) {
+          add.call(this, data[i]);
+        }
+      }
+    };
+    Set.prototype.add = add;
+    Set.prototype.get = function(index) { return this._data[index]; };
+    Set.prototype.has = function(item) {
+      var i, data = this._data;
+      for (i = 0; i < data.length; i++) {
+        if (this.get(i) === item) {
+          return true;
+        }
+      }
+      return false;
+    };
+    Set.prototype.is = function(map) {
+      if (map._data.length !== this._data.length) { return false; }
+      var i, j, flag, tData = this._data, mData = map._data;
+      for (i = 0; i < tData.length; i++) {
+        for (flag = false, j = 0; j < mData.length; j++) {
+          if (tData[i] === mData[j]) {
+            flag = true;
+            break;
+          }
+        }
+        if (!flag) { return false; }
+      }
+      return true;
+    };
+    Set.prototype.values = function() {
+      return this._data;
+    };
+    return Set;
+  })();
+
+  window.Lazyload = (function(doc) {
+    var queue = {js: [], css: []}, sources = {js: {}, css: {}}, context = this;
+    var createNode = function(name, attrs) {
+      var node = doc.createElement(name), attr;
+      for (attr in attrs) {
+        if (attrs.hasOwnProperty(attr)) {
+          node.setAttribute(attr, attrs[attr]);
+        }
+      }
+      return node;
+    };
+    var end = function(type, url) {
+      var s, q, qi, cbs, i, j, cur, val, flag;
+      if (type === 'js' || type ==='css') {
+        s = sources[type], q = queue[type];
+        s[url] = true;
+        for (i = 0; i < q.length; i++) {
+          cur = q[i];
+          if (cur.urls.has(url)) {
+            qi = cur, val = qi.urls.values();
+            qi && (cbs = qi.callbacks);
+            for (flag = true, j = 0; j < val.length; j++) {
+              cur = val[j];
+              if (!s[cur]) {
+                flag = false;
+              }
+            }
+            if (flag && cbs && cbs.length > 0) {
+              for (j = 0; j < cbs.length; j++) {
+                cbs[j].call(context);
+              }
+              qi.load = true;
+            }
+          }
+        }
+      }
+    };
+    var load = function(type, urls, callback) {
+      var s, q, qi, node, i, cur,
+        _urls = typeof urls === 'string' ? new Set([urls]) : new Set(urls), val, url;
+      if (type === 'js' || type ==='css') {
+        s = sources[type], q = queue[type];
+        for (i = 0; i < q.length; i++) {
+          cur = q[i];
+          if (_urls.is(cur.urls)) {
+            qi = cur;
+            break;
+          }
+        }
+        val = _urls.values();
+        if (qi) {
+          callback && (qi.load || qi.callbacks.push(callback));
+          callback && (qi.load && callback());
+        } else {
+          q.push({
+            urls: _urls,
+            callbacks: callback ? [callback] : [],
+            load: false
+          });
+          for (i = 0; i < val.length; i++) {
+            node = null, url = val[i];
+            if (s[url] === undefined) {
+              (type === 'js' ) && (node = createNode('script', { src: url }));
+              (type === 'css') && (node = createNode('link', { rel: 'stylesheet', href: url }));
+              if (node) {
+                node.onload = (function(type, url) {
+                  return function() {
+                    end(type, url);
+                  };
+                })(type, url);
+                (doc.head || doc.body).appendChild(node);
+                s[url] = false;
+              }
+            }
+          }
+        }
+      }
+    };
+    return {
+      js: function(url, callback) {
+        load('js', url, callback);
+      },
+      css: function(url, callback) {
+        load('css', url, callback);
+      }
+    };
+  })(this.document);
+})();
+</script><script>
+  (function() {
+    var TEXT_VARIABLES = {
+      version: '2.2.5',
+      sources: {
+        font_awesome: 'https://use.fontawesome.com/releases/v5.0.13/css/all.css',
+        jquery: 'https://cdn.bootcss.com/jquery/3.1.1/jquery.min.js',
+        leancloud_js_sdk: '//cdn.jsdelivr.net/npm/leancloud-storage@3.13.2/dist/av-min.js',
+        chart: 'https://cdn.bootcss.com/Chart.js/2.7.2/Chart.bundle.min.js',
+        gitalk: {
+          js: 'https://cdn.bootcss.com/gitalk/1.2.2/gitalk.min.js',
+          css: 'https://cdn.bootcss.com/gitalk/1.2.2/gitalk.min.css'
+        },
+        valine: 'https://unpkg.com/valine/dist/Valine.min.js',
+        mathjax: 'https://cdn.bootcss.com/mathjax/2.7.4/MathJax.js?config=TeX-MML-AM_CHTML',
+        mermaid: 'https://cdn.bootcss.com/mermaid/8.0.0-rc.8/mermaid.min.js'
+      },
+      site: {
+        toc: {
+          selectors: 'h1,h2,h3'
+        }
+      },
+      paths: {
+        search_js: '/assets/search.js'
+      }
+    };
+    window.TEXT_VARIABLES = TEXT_VARIABLES;
+  })();
+</script></head>
+  <body>
+    <div class="root" data-is-touch="false">
+      <div class="layout--page js-page-root"><div class="page__main js-page-main page__viewport cell cell--auto">
+
+      <div class="page__main-inner"><div class="page__header d-print-none"><header class="header"><div class="main">
+      <div class="header__title">
+        <div class="header__brand"><svg id="svg" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="400" height="400" viewBox="0, 0, 400,400"><g id="svgg"><path id="path0" d="M0.000 80.696 L 0.000 161.392 7.102 154.298 L 14.205 147.203 66.202 199.202 C 94.800 227.801,118.379 251.193,118.599 251.185 C 118.820 251.176,127.190 243.091,137.200 233.217 L 155.400 215.265 103.200 163.015 C 74.490 134.277,50.910 110.666,50.800 110.545 C 50.690 110.423,57.260 103.779,65.400 95.780 L 80.200 81.235 132.499 133.516 L 184.798 185.797 198.543 172.057 L 212.288 158.317 227.001 172.999 L 241.715 187.681 227.975 201.425 C 220.418 208.984,214.378 215.311,214.551 215.484 C 214.725 215.658,226.306 227.320,240.286 241.400 C 254.266 255.480,277.605 278.925,292.150 293.501 L 318.594 320.002 303.999 334.601 C 295.972 342.630,289.292 349.200,289.156 349.200 C 288.865 349.200,247.879 308.214,210.767 270.811 L 184.782 244.621 166.591 262.809 C 156.586 272.812,148.400 281.200,148.400 281.449 C 148.400 281.698,171.900 305.266,200.623 333.824 L 252.846 385.746 246.223 392.377 C 242.580 396.024,239.600 399.232,239.600 399.504 C 239.600 399.897,256.277 400.000,319.800 400.000 L 400.000 400.000 400.000 200.000 L 400.000 0.000 200.000 0.000 L 0.000 0.000 0.000 80.696 M361.200 172.499 L 361.200 306.597 340.400 285.800 L 319.600 265.003 319.600 252.670 L 319.600 240.336 239.700 160.172 L 159.800 80.009 147.400 79.998 L 135.000 79.987 114.216 59.194 L 93.432 38.400 227.316 38.400 L 361.200 38.400 361.200 172.499 M219.453 80.280 C 219.298 80.436,241.627 103.022,269.074 130.473 C 296.521 157.923,319.119 180.241,319.290 180.070 C 319.462 179.898,319.557 157.357,319.502 129.978 L 319.400 80.200 269.568 80.098 C 242.161 80.043,219.609 80.124,219.453 80.280 M0.000 296.000 L 0.000 400.000 103.600 400.000 C 202.000 400.000,207.200 399.965,207.200 399.300 C 207.200 398.915,204.635 396.134,201.500 393.119 C 198.365 390.105,166.460 358.262,130.600 322.358 C 94.740 286.453,60.386 252.109,54.257 246.038 C 48.129 239.967,41.289 233.123,39.057 230.829 C 31.105 222.654,0.450 192.000,0.227 192.000 C 0.102 192.000,0.000 238.800,0.000 296.000 " stroke="none" fill="#638c64" fill-rule="evenodd"></path><path id="path1" d="M114.216 59.194 L 135.000 79.987 147.400 79.998 L 159.800 80.009 239.700 160.172 L 319.600 240.336 319.600 252.670 L 319.600 265.003 340.400 285.800 L 361.200 306.597 361.200 172.499 L 361.200 38.400 227.316 38.400 L 93.432 38.400 114.216 59.194 M319.502 129.978 C 319.557 157.357,319.462 179.898,319.290 180.070 C 319.119 180.241,296.521 157.923,269.074 130.473 C 241.627 103.022,219.298 80.436,219.453 80.280 C 219.609 80.124,242.161 80.043,269.568 80.098 L 319.400 80.200 319.502 129.978 M65.200 95.840 C 57.170 103.805,50.690 110.422,50.800 110.544 C 50.910 110.665,74.490 134.277,103.200 163.015 L 155.400 215.265 137.200 233.217 C 127.190 243.091,118.820 251.176,118.599 251.185 C 118.379 251.193,94.800 227.801,66.202 199.202 L 14.205 147.203 7.102 154.298 L 0.000 161.392 0.000 176.474 L 0.000 191.557 17.500 209.106 C 27.125 218.758,36.826 228.533,39.057 230.828 C 41.289 233.122,48.129 239.967,54.257 246.038 C 60.386 252.109,94.740 286.453,130.600 322.358 C 166.460 358.262,198.365 390.105,201.500 393.119 C 204.635 396.134,207.200 398.915,207.200 399.300 C 207.200 399.955,208.238 400.000,223.400 400.000 C 236.019 400.000,239.600 399.890,239.600 399.504 C 239.600 399.232,242.580 396.024,246.223 392.377 L 252.846 385.746 200.623 333.824 C 171.900 305.266,148.400 281.698,148.400 281.449 C 148.400 281.200,156.586 272.812,166.591 262.809 L 184.782 244.621 210.767 270.811 C 247.879 308.214,288.865 349.200,289.156 349.200 C 289.292 349.200,295.972 342.630,303.999 334.601 L 318.594 320.002 292.150 293.501 C 277.605 278.925,254.266 255.480,240.286 241.400 C 226.306 227.320,214.725 215.658,214.551 215.484 C 214.378 215.311,220.418 208.984,227.975 201.425 L 241.715 187.681 227.001 172.999 L 212.288 158.317 198.543 172.057 L 184.798 185.797 132.499 133.499 C 103.734 104.734,80.109 81.236,79.999 81.279 C 79.890 81.322,73.230 87.875,65.200 95.840 " stroke="none" fill="#fbfbfb" fill-rule="evenodd"></path></g></svg><a title="HoloARCH - Architecture, Urban Design, Interior Design
+" href="/">HoloARCH 全度国际设计</a></div><button class="button button--secondary button--circle search-button js-search-toggle"><i class="fas fa-search"></i></button></div><nav class="navigation">
+    <ul><li class="navigation__item"><a href="/cn/about">公司</a></li><li class="navigation__item"><a href="/cn/projects">项目</a></li><li class="navigation__item"><a href="/cn/contact">联系</a></li><li class="navigation__item"><a href="/en">English</a></li><li><button class="button button--secondary button--circle search-button js-search-toggle"><i class="fas fa-search"></i></button></li></ul>
+      </nav></div>
+  </header>
+</div><div class="page__content"><div class ="main"><div class="grid grid--reverse">
+
+              <div class="col-aside d-print-none js-col-aside"></div>
+
+              <div class="col-main cell cell--auto"><!-- start custom main top snippet -->
+
+<!-- end custom main top snippet --><article><header style="display:none;"><h1>Firm Profile</h1></header><meta itemprop="headline" content="Firm Profile"><meta itemprop="author" content=""/><div class="js-article-content"><div class="layout--article"><!-- start custom article top snippet -->
+
+<!-- end custom article top snippet --><div class="article__content" itemprop="articleBody"><h5 id="commercial">商业建筑</h5>
+
+<div class="slideshow-container">
+  <center>
       <div class="mySlides fade">
         <div class="numbertext"></div>
         <img src="/projects/images/commercial/Qisha Hotel-01.jpg">
@@ -670,13 +769,13 @@
     <a class="next" onclick="plusSlides(1)">&#10095;</a>
   
     </div>
-    <br>
+  <p><br /></p>
   
-    <div style="text-align:center">
+  <div style="text-align:center">
       
     </div>
   
-    <script>
+  <script>
     var slideIndex = 1;
     showSlides(slideIndex);
   
@@ -704,10 +803,8 @@
       dots[slideIndex-1].className += " active";
     }
     </script>
-
-  </div>
   
-  <div class="d-print-none"><footer class="article__footer"><!-- start custom article footer snippet -->
+  </div><div class="d-print-none"><footer class="article__footer"><!-- start custom article footer snippet -->
   
   <!-- end custom article footer snippet --></footer></div>
   
@@ -737,7 +834,8 @@
       });
     });
   })();
-  </script></div><section class="page__comments d-print-none"></section></article><!-- start custom main bottom snippet -->
+  </script>
+  </div><section class="page__comments d-print-none"></section></article><!-- start custom main bottom snippet -->
   
   <!-- end custom main bottom snippet --></div>
               </div></div></div><div class="page__footer d-print-none">
@@ -751,6 +849,7 @@
         <div>© HoloARCH 全度国际设计 2019 | 
           Architecture, Urban Design, Interior Design
         </div>
+       
       </div>
     </div>
   </footer>
@@ -1283,3 +1382,4 @@
   </script>
     </body>
   </html>
+  
