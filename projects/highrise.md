@@ -3,7 +3,7 @@ layout: project
 show_title: false
 titles:
   # @start locale config
-  en      : &EN       Firm Profile
+  en      : &EN       Highrise
   en-GB   : *EN
   en-US   : *EN
   en-CA   : *EN
