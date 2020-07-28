@@ -32,15 +32,21 @@ key: page-about
   <center>
     <div class="mySlides fade">
       <div class="numbertext"></div>
-      <img src="/projects/images/institutional/01-SEPU Library.JPG">
+      <img src="/projects/images/institutional/00-SEPU Library.JPG">
       <div class="text">SEPU Library</div>
+    </div>
+
+    <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/institutional/01-Mansion Office.JPG">
+      <div class="text">The Mansion Office</div>
     </div>
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
       <img src="/projects/images/institutional/02-Mansion Office.JPG">
       <div class="text">The Mansion Office</div>
-    </div>
+    </div>    
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
