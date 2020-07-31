@@ -56,9 +56,15 @@ key: page-about
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
-      <img src="/projects/images/institutional/04-Mansion Office.JPG">
+      <img src="/projects/images/institutional/04a-Mansion Office.JPG">
       <div class="text">The Mansion Office</div>
     </div>      
+
+    <div class="mySlides fade">
+      <div class="numbertext"></div>
+      <img src="/projects/images/institutional/04b-Mansion Office.JPG">
+      <div class="text">The Mansion Office</div>
+    </div> 
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
