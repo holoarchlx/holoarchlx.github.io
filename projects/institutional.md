@@ -62,7 +62,7 @@ key: page-about
 
     <div class="mySlides fade">
       <div class="numbertext"></div>
-      <img src="/projects/images/institutional/04b-Mansion Office.JPG">
+      <img src="/projects/images/institutional/04b-Mansion Office.jpg">
       <div class="text">The Mansion Office</div>
     </div> 
 
