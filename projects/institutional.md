@@ -32,7 +32,7 @@ key: page-about
   <center>
     <div class="mySlides fade">
       <div class="numbertext"></div>
-      <img src="/projects/images/institutional/00-SEPU Library.JPG">
+      <img src="/projects/images/institutional/00-SWPU Library.JPG">
       <div class="text">SWPU University Campus Planning and Library</div>
     </div>
 
