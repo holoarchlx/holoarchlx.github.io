@@ -33,7 +33,7 @@ key: page-about
     <div class="mySlides fade">
       <div class="numbertext"></div>
       <img src="/projects/images/institutional/00-SEPU Library.JPG">
-      <div class="text">SEPU University Campus Planning and Library</div>
+      <div class="text">SWPU University Campus Planning and Library</div>
     </div>
 
     <div class="mySlides fade">
