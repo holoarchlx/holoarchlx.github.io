@@ -110,6 +110,12 @@ key: page-about
 
         <div class="mySlides fade">
       <div class="numbertext"></div>
+      <img src="/projects/images/commercial/Qisha Hotel-19.JPG">
+      <div class="text">Qisha Hotel</div>
+    </div>
+
+        <div class="mySlides fade">
+      <div class="numbertext"></div>
       <img src="/projects/images/commercial/Zhenjiang Urban Comlex-1.jpg">
       <div class="text">* Zhenjiang Urban Comlex</div>
     </div>
